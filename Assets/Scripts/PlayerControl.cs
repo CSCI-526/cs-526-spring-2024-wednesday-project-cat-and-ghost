@@ -78,4 +78,10 @@ public class NewBehaviourScript : MonoBehaviour {
         material.SetColor("_Color", newColor); // 设置你在Shader中定义的_Color属性
     }
 
+    // 提供获取 bgColor 的方法
+    public Color GetBgColor()
+    {
+        return bgColor;
+    }
+
 }

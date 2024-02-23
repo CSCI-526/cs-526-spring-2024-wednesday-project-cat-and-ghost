@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - nailRed
+  - nailBlue
+  - nailYellow
   layers:
   - Default
   - TransparentFX
@@ -38,6 +41,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: hiddenNails
+    uniqueID: 1822790513
+    locked: 0
   - name: Background
     uniqueID: 16120837
     locked: 0
