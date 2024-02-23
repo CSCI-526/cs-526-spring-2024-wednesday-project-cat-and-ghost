@@ -38,7 +38,7 @@ public class NailDeath : MonoBehaviour
                 Debug.Log("death from Nails");
                 Destroy(other.gameObject);
                 Destroy(Ghost);
-                Time.timeScale = 0f; // freeze time
+                //Time.timeScale = 0f; // freeze time
                 GameOver();
             }
         }

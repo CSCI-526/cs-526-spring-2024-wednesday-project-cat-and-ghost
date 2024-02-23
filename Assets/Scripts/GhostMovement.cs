@@ -97,7 +97,7 @@ public class GhostMovement : MonoBehaviour {
                 // 如果颜色不同，执行原有逻辑
                 Debug.Log("Ghost caught the player.");
                 Destroy(other.gameObject);
-                Time.timeScale = 0f; // freeze time
+                //Time.timeScale = 0f; // freeze time
                 GameOver();
             }
         }

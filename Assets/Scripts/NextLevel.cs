@@ -6,9 +6,32 @@ using UnityEngine.SceneManagement;
 public class NextLevel : MonoBehaviour
 {
     public int maxLevel = 10; // 最大关卡数
-    
+    string CurrentsceneName = GameData.scnenName; //最新Scene名
 
-     // 调用这个方法以加载下一个关卡
+    // 从场景名提取关卡索引
+    private void Start()
+    {
+        if (CurrentsceneName.StartsWith("Level"))
+        {
+            string indexStr = CurrentsceneName.Substring(CurrentsceneName.Length - 1);
+            int levelIndex;
+
+            // 尝试将索引字符串转换为数字
+            if (int.TryParse(indexStr, out levelIndex))
+            {
+                // 更新当前关卡索引
+                GameData.currentLevelIndex = levelIndex;
+                Debug.LogError("Debug Index:"+ levelIndex);
+            }
+            else
+            {
+                Debug.LogError("Unable to parse level index from scene name.");
+            }
+        }
+    }
+
+
+    // 调用这个方法以加载下一个关卡
     public void LoadNextLevel()
     {
         // 计算下一个关卡索引
