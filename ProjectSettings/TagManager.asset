@@ -41,6 +41,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: hiddenWall
+    uniqueID: 2774889841
+    locked: 0
   - name: hiddenNails
     uniqueID: 1822790513
     locked: 0

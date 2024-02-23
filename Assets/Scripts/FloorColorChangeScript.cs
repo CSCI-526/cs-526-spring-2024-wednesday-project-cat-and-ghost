@@ -19,6 +19,8 @@ public class FloorColorChangeScript : MonoBehaviour {
 
     public Color32 curColor;
 
+    public static bool crossingWall; //判断物体是否正在穿墙
+
     void Start() {
         spriteRenderer = GetComponent<SpriteRenderer>(); // 获取SpriteRenderer组件
         SetRandomTime(); // 初始化随机时间
@@ -32,7 +34,10 @@ public class FloorColorChangeScript : MonoBehaviour {
         timer += Time.deltaTime; // 更新计时器
         // 检查是否达到了更换颜色的时间
         if (timer >= timeToChange) {
-            ChangeColor(); // 更换颜色
+            Debug.Log("是否正在穿墙" + crossingWall);
+            if (!crossingWall) {
+                ChangeColor(); // 更换颜色
+            }
             SetRandomTime(); // 重置随机时间
         }
     }

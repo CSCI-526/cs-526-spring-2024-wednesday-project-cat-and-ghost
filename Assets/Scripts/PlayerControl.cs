@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class NewBehaviourScript : MonoBehaviour {
     public float speed = 3.0f; // 控制速度
@@ -21,6 +22,10 @@ public class NewBehaviourScript : MonoBehaviour {
         colors = new Color[] { myR, myY, myB }; // 初始化颜色数组
         curColor = myB;
         rb = GetComponent<Rigidbody2D>(); // 获取Rigidbody2D组件
+        Scene currentScene = SceneManager.GetActiveScene();
+        GameData.scnenName = currentScene.name;
+
+
     }
 
     void Update() {
@@ -77,11 +82,4 @@ public class NewBehaviourScript : MonoBehaviour {
         var material = renderer.material;
         material.SetColor("_Color", newColor); // 设置你在Shader中定义的_Color属性
     }
-
-    // 提供获取 bgColor 的方法
-    public Color GetBgColor()
-    {
-        return bgColor;
-    }
-
 }

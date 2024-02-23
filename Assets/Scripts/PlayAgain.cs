@@ -23,8 +23,8 @@ public class PlayAgain : MonoBehaviour
         //SceneManager.LoadScene(sceneName);
 
         // 使用 GameData 中存储的 index 值重新加载场景
-        string levelSceneName = "Level" + GameData.currentLevelIndex.ToString();
+        //string levelSceneName = "Level" + GameData.currentLevelIndex.ToString();
         // 重新加载当前关卡
-        SceneManager.LoadScene(levelSceneName);
+        SceneManager.LoadScene(GameData.scnenName);
     }
 }

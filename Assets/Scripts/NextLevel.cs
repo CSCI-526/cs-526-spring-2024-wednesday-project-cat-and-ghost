@@ -6,12 +6,14 @@ using UnityEngine.SceneManagement;
 public class NextLevel : MonoBehaviour
 {
     public int maxLevel = 10; // 最大关卡数
+    
 
      // 调用这个方法以加载下一个关卡
     public void LoadNextLevel()
     {
         // 计算下一个关卡索引
         int nextLevelIndex = GameData.currentLevelIndex + 1;
+
 
         // 检查是否达到最大关卡数
         if (nextLevelIndex <= maxLevel)
