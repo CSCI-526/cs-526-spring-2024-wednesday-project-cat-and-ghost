@@ -10,6 +10,7 @@ public class FloorColorChangeScript : MonoBehaviour {
 
     public float minTime = 2.0f; // 更换颜色的最小时间间隔
     public float maxTime = 3.0f; // 更换颜色的最大时间间隔
+
     private float timer; // 计时器
     private float timeToChange; // 下一次更换颜色的时间点
 
