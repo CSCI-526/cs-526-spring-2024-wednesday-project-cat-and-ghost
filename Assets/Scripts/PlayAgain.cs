@@ -17,7 +17,14 @@ public class PlayAgain : MonoBehaviour
         
     }
 
-    public void PlayAgainScrene(string sceneName) {
-        SceneManager.LoadScene(sceneName);
+    public void PlayAgainScrene() {
+
+        Time.timeScale = 1f; // Make sure to reset the time scale, or the game will remain paused
+        //SceneManager.LoadScene(sceneName);
+
+        // 使用 GameData 中存储的 index 值重新加载场景
+        string levelSceneName = "Level" + GameData.currentLevelIndex.ToString();
+        // 重新加载当前关卡
+        SceneManager.LoadScene(levelSceneName);
     }
 }

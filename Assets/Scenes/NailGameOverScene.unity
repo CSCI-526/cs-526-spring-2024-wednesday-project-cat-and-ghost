@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 336016340}
   - component: {fileID: 336016339}
   m_Layer: 5
-  m_Name: GameOver
+  m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -474,8 +474,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0000076294, y: 0.2988}
-  m_SizeDelta: {x: 338.5078, y: 116.7679}
+  m_AnchoredPosition: {x: 73, y: -12}
+  m_SizeDelta: {x: 437.1456, y: 147.9697}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1701566561
 MonoBehaviour:
@@ -499,7 +499,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 32
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 2
@@ -510,7 +510,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "The Ghost Caught You!\n          Game Over!"
+  m_Text: "You've Killed By The Nails!\n          Game Over!"
 --- !u!222 &1701566562
 CanvasRenderer:
   m_ObjectHideFlags: 0

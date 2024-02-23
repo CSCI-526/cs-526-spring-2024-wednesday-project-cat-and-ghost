@@ -23,6 +23,12 @@ public class GhostMovement : MonoBehaviour {
         // 获取目标对象的NewBehaviourScript组件
         targetScript = target.GetComponent<NewBehaviourScript>();
 
+        if (SceneManager.GetActiveScene().name == "Level1")
+        {
+            // 当 Level 1 加载时，重置 GameData
+            GameData.currentLevelIndex = 1;
+        }
+
     }
 
     private void Update() {
@@ -91,6 +97,7 @@ public class GhostMovement : MonoBehaviour {
                 // 如果颜色不同，执行原有逻辑
                 Debug.Log("Ghost caught the player.");
                 Destroy(other.gameObject);
+                Time.timeScale = 0f; // freeze time
                 GameOver();
             }
         }
