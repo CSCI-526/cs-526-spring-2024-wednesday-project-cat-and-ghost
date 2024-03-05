@@ -7,6 +7,9 @@ TagManager:
   - nailRed
   - nailBlue
   - nailYellow
+  - BlueCheckPoint
+  - RedCheckPoint
+  - YellowCheckPoint
   layers:
   - Default
   - TransparentFX

@@ -2,6 +2,18 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using Proyecto26; // 引用Proyecto26 REST库
+
+[System.Serializable]
+public class DeathData
+{
+    public string id;
+    public string level;
+    public float positionX;
+    public float positionY;
+    public string killedBy;
+    public float endTime;
+}
 
 
 public class NailDeath : MonoBehaviour
@@ -41,6 +53,26 @@ public class NailDeath : MonoBehaviour
             if (CheckOverlap())
             {
                 Debug.Log("重叠, 当前trigger" + nailCollider.isTrigger);
+
+                // 生成基于当前时间的ID
+                string timestampId = System.DateTime.UtcNow.ToString("yyyyMMddHHmmssfff");
+                // 创建DeathData对象并填充数据
+                DeathData deathData = new DeathData
+                {
+                    id = timestampId, // 使用时间戳作为ID
+                    level = GameData.scnenName,
+                    positionX = Player.transform.position.x,
+                    positionY = Player.transform.position.y,
+                    killedBy = "Nail",
+                    endTime = Time.timeSinceLevelLoad
+                };
+                // 转换数据为JSON
+                string json = JsonUtility.ToJson(deathData);
+
+                // 发送数据到Firebase
+                PostDeathDataToFirebase(json);
+
+
                 Destroy(Player);
                 Destroy(Ghost);
                 //Time.timeScale = 0f; // freeze time
@@ -60,6 +92,26 @@ public class NailDeath : MonoBehaviour
                 Debug.Log("颜色不一样, 发生碰撞");
                 //Player.transform.position = StartPoint.transform.position;
                 Debug.Log("death from Nails");
+
+                // 生成基于当前时间的ID
+                string timestampId = System.DateTime.UtcNow.ToString("yyyyMMddHHmmssfff");
+                // 创建DeathData对象并填充数据
+                DeathData deathData = new DeathData
+                {
+                    id = timestampId, // 使用时间戳作为ID
+                    level = GameData.scnenName,
+                    positionX = Player.transform.position.x,
+                    positionY = Player.transform.position.y,
+                    killedBy = "Nail",
+                    endTime = Time.timeSinceLevelLoad
+                };
+                // 转换数据为JSON
+                string json = JsonUtility.ToJson(deathData);
+
+                // 发送数据到Firebase
+                PostDeathDataToFirebase(json);
+
+
                 Destroy(other.gameObject);
                 Destroy(Ghost);
                 //Time.timeScale = 0f; // freeze time
@@ -67,6 +119,24 @@ public class NailDeath : MonoBehaviour
             }
         }
     }
+
+    private void PostDeathDataToFirebase(string json)
+    {
+        // Firebase路径使用ID来存储每个独特的死亡事件
+        //string firebasePath = $"deaths/{System.DateTime.UtcNow.ToString("yyyyMMddHHmmssfff")}.json";
+        //RestClient.Post($"https://csci526-catandghost-default-rtdb.firebaseio.com/{firebasePath}", json)
+        //    .Then(response => Debug.Log("Death data uploaded successfully!"))
+        //    .Catch(error => Debug.LogError("Error uploading death data: " + error));
+        // 使用 POST 请求发送数据到 deaths 节点
+        RestClient.Post($"https://csci526-catandghost-default-rtdb.firebaseio.com/deaths.json", json)
+            .Then(response => {
+                // Firebase的响应包含了生成的唯一键
+                var id = response.Text;
+                Debug.Log($"Death data uploaded successfully! ID: {id}");
+            })
+            .Catch(error => Debug.LogError("Error uploading death data: " + error));
+    }
+
 
     bool CheckOverlap()
     {
