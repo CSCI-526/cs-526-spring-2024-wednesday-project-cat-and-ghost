@@ -45,11 +45,5 @@ public class LevelSelector : MonoBehaviour
 
         // 这里可以添加场景加载完成后的代码，比如重置玩家状态等
     }
-
-
-    public void LoadNewScene(string sceneName) {
-        // 加载新场景
-        SceneManager.LoadScene(sceneName);
-    }
 }
 
