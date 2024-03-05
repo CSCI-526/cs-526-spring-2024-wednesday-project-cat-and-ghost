@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.Services.Analytics;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -25,6 +26,13 @@ public class YouWinTrigger : MonoBehaviour
         // 检查触发器碰撞的对象是否为玩家
         if (other.gameObject == target.gameObject) {
             YouWin();
+            //记录本轮游戏结束
+            CustomEvent myEvent = new CustomEvent("WinCheckPoint")
+            {
+                {"GameLevel", "Level 3"}
+            };
+            AnalyticsService.Instance.RecordEvent(myEvent);
+            AnalyticsService.Instance.Flush();
         }
     }
 
