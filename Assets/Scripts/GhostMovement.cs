@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using Proyecto26; // 引用Proyecto26 REST库
 
 public class GhostMovement : MonoBehaviour {
     public float speed = 2.0f; // 移动速度
@@ -96,12 +97,46 @@ public class GhostMovement : MonoBehaviour {
             } else {
                 // 如果颜色不同，执行原有逻辑
                 Debug.Log("Ghost caught the player.");
+
+
+                // 生成基于当前时间的ID
+                string timestampId = System.DateTime.UtcNow.ToString("yyyyMMddHHmmssfff");
+                // 创建DeathData对象并填充数据
+                DeathData deathData = new DeathData
+                {
+                    id = timestampId, // 使用时间戳作为ID
+                    level = GameData.scnenName,
+                    positionX = target.position.x,
+                    positionY = target.position.y,
+                    killedBy = "Ghost",
+                    endTime = Time.timeSinceLevelLoad
+                };
+                // 转换数据为JSON
+                string json = JsonUtility.ToJson(deathData);
+
+                // 发送数据到Firebase
+                PostDeathDataToFirebase(json);
+
                 Destroy(other.gameObject);
                 //Time.timeScale = 0f; // freeze time
                 GameOver();
             }
         }
     }
+
+    private void PostDeathDataToFirebase(string json)
+    {
+
+        // 使用 POST 请求发送数据到 deaths 节点
+        RestClient.Post($"https://csci526-catandghost-default-rtdb.firebaseio.com/deaths.json", json)
+            .Then(response => {
+                // Firebase的响应包含了生成的唯一键
+                var id = response.Text;
+                Debug.Log($"Death data uploaded successfully! ID: {id}");
+            })
+            .Catch(error => Debug.LogError("Error uploading death data: " + error));
+    }
+
 
     // 游戏结束逻辑
     private void GameOver() {
