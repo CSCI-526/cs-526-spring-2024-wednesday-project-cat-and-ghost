@@ -453,7 +453,7 @@ GameObject:
   - component: {fileID: 195279345}
   - component: {fileID: 195279344}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: space
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -587,7 +587,7 @@ GameObject:
   - component: {fileID: 230882679}
   - component: {fileID: 230882678}
   m_Layer: 5
-  m_Name: Text (TMP) (1)
+  m_Name: nails
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -632,7 +632,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Nails will kill you\n if colors are not align"
+  m_text: "Nails will kill you\n if colors are not aligned"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -695,7 +695,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -133.47632, w: 0}
+  m_margin: {x: 0, y: 0, z: -174.76038, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
