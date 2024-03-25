@@ -2,9 +2,12 @@ using UnityEngine;
 
 public class FloorColorChangeScript : MonoBehaviour {
 
-    public Color32 myR = new Color32(233, 113, 113, 255);
-    public Color32 myY = new Color32(234, 238, 134, 255);
-    public Color32 myB = new Color32(137, 150, 236, 255);
+    //public Color32 myR = new Color32(233, 113, 113, 255);
+    //public Color32 myY = new Color32(234, 238, 134, 255);
+    //public Color32 myB = new Color32(137, 150, 236, 255);
+    public Color32 myR = Colors.myR;
+    public Color32 myY = Colors.myY;
+    public Color32 myB = Colors.myB;
     public Color[] colors; // 用于存储可能颜色的数组
     private SpriteRenderer spriteRenderer; // SpriteRenderer组件的引用
 

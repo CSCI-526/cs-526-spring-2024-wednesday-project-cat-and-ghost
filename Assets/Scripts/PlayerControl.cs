@@ -7,9 +7,10 @@ public class NewBehaviourScript : MonoBehaviour {
     public float speed = 3.0f; // 控制速度
 
     // 预定义颜色
-    public Color32 myR = new Color32(233, 113, 113, 255);
-    public Color32 myY = new Color32(234, 238, 134, 255);
-    public Color32 myB = new Color32(137, 150, 236, 255);
+    public Color32 myR = Colors.myR;
+    public Color32 myY = Colors.myY;
+    public Color32 myB = Colors.myB;
+
     private Color[] colors; // 存储颜色的数组
     private int currentColorIndex = 0; // 当前颜色索引
 
