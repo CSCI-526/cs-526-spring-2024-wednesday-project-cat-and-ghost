@@ -10,6 +10,9 @@ TagManager:
   - BlueCheckPoint
   - RedCheckPoint
   - YellowCheckPoint
+  - BlueArrow
+  - RedArrow
+  - YellowArrow
   layers:
   - Default
   - TransparentFX
