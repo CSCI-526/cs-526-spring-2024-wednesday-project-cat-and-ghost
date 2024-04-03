@@ -20,7 +20,7 @@ public class NewBehaviourScript : MonoBehaviour {
     public Color32 curColor; // 当前player的颜色
 
     void Start() {
-        colors = new Color[] { myR, myY, myB }; // 初始化颜色数组
+        colors = new Color[] { myB, myY, myR }; // 初始化颜色数组
         curColor = myB;
         rb = GetComponent<Rigidbody2D>(); // 获取Rigidbody2D组件
         Scene currentScene = SceneManager.GetActiveScene();
