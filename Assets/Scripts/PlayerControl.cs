@@ -2,9 +2,32 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System;
 
 public class NewBehaviourScript : MonoBehaviour {
     public float speed = 3.0f; // 控制速度
+    public DateTime startTime; // 用于YouWinTrigger.cs
+    public DateTime startChaseTime;
+
+    //analytics metric #4
+    public int colorChangeCount = 0; // 记录颜色更换次数
+    public bool isBeingChased = false; // 记录玩家是否正在被追赶
+
+    //public void SetChaseStatus(bool isChased)
+    //{
+    //    isBeingChased = isChased;
+    //}
+
+    public void SetChaseStatus(bool isChased)
+    {
+        isBeingChased = isChased;
+        if (isBeingChased)
+        {
+            startChaseTime = DateTime.Now; // 开始追捕时记录时间
+            colorChangeCount = 0; // 重置颜色更换计数
+        }
+    }
+
 
     // 预定义颜色
     public Color32 myR = Colors.myR;
@@ -35,6 +58,12 @@ public class NewBehaviourScript : MonoBehaviour {
     }
 
     void HandleColorChange() {
+        //analytics #4
+        if (Input.GetKeyDown(KeyCode.Space) && isBeingChased)
+        {
+            // 当玩家被追赶且按下Space键时，更新颜色更换计数
+            colorChangeCount++;
+        }
         if (Input.GetKeyDown(KeyCode.Space)) {
             // 更新当前颜色索引并循环
             currentColorIndex = (currentColorIndex + 1) % colors.Length;

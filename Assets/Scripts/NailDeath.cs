@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using Proyecto26; // 引用Proyecto26 REST库
+using System;
 
 [System.Serializable]
 public class DeathData
@@ -13,6 +14,7 @@ public class DeathData
     public float positionY;
     public string killedBy;
     public float endTime;
+    public string DeathdateTime; // 新增的字段
 }
 
 
@@ -64,7 +66,8 @@ public class NailDeath : MonoBehaviour
                     positionX = Player.transform.position.x,
                     positionY = Player.transform.position.y,
                     killedBy = "Nail",
-                    endTime = Time.timeSinceLevelLoad
+                    endTime = Time.timeSinceLevelLoad,
+                    DeathdateTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss") // 填充当前日期和时jian
                 };
                 // 转换数据为JSON
                 string json = JsonUtility.ToJson(deathData);
@@ -103,7 +106,8 @@ public class NailDeath : MonoBehaviour
                     positionX = Player.transform.position.x,
                     positionY = Player.transform.position.y,
                     killedBy = "Nail",
-                    endTime = Time.timeSinceLevelLoad
+                    endTime = Time.timeSinceLevelLoad,
+                    DeathdateTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss") // 填充当前日期和时间
                 };
                 // 转换数据为JSON
                 string json = JsonUtility.ToJson(deathData);
