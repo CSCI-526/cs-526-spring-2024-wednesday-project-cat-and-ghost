@@ -29,4 +29,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/YouWinScene.unity
     guid: e49db6329c3334ba5b244d0e3d5b9475
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 9415ce56f877a4beb953cb8de149db5e
+  - enabled: 1
+    path: Assets/Scenes/TutorialWinScene.unity
+    guid: 63b47b3e161fb47c9a59d82976443e6b
   m_configObjects: {}

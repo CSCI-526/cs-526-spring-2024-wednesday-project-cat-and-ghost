@@ -59,3 +59,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Guidance
+    uniqueID: 753518815
+    locked: 0
