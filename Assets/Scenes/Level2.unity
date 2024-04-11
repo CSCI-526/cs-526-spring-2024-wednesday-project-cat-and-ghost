@@ -5533,7 +5533,7 @@ GameObject:
   - component: {fileID: 1078344228}
   - component: {fileID: 1078344227}
   m_Layer: 0
-  m_Name: F
+  m_Name: MainCamera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7138,6 +7138,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
+  colorChangeCount: 0
+  isBeingChased: 0
   myR:
     serializedVersion: 2
     rgba: 4285624809
