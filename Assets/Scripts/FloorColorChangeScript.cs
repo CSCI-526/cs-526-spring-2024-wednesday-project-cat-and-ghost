@@ -2,9 +2,6 @@ using UnityEngine;
 
 public class FloorColorChangeScript : MonoBehaviour {
 
-    //public Color32 myR = new Color32(233, 113, 113, 255);
-    //public Color32 myY = new Color32(234, 238, 134, 255);
-    //public Color32 myB = new Color32(137, 150, 236, 255);
     public Color32 myR = Colors.myR;
     public Color32 myY = Colors.myY;
     public Color32 myB = Colors.myB;
@@ -24,6 +21,11 @@ public class FloorColorChangeScript : MonoBehaviour {
 
     public static bool crossingWall; //判断物体是否正在穿墙
 
+    // 一段距离内不变颜色
+    public Transform player; // player对象的Transform组件
+    public Transform ghost; // ghost对象的Transform组件
+
+
     void Start() {
         spriteRenderer = GetComponent<SpriteRenderer>(); // 获取SpriteRenderer组件
         SetRandomTime(); // 初始化随机时间
@@ -34,9 +36,14 @@ public class FloorColorChangeScript : MonoBehaviour {
     }
 
     void Update() {
+
+        float distanceToTarget = Vector2.Distance(ghost.position, player.position);
+        bool canChange = distanceToTarget > 4f;
+        Debug.Log("是否距离满足变色" + canChange);
+
         timer += Time.deltaTime; // 更新计时器
         // 检查是否达到了更换颜色的时间
-        if (timer >= timeToChange) {
+        if (timer >= timeToChange && canChange) {
             Debug.Log("是否正在穿墙" + crossingWall);
             if (!crossingWall) {
                 ChangeColor(); // 更换颜色

@@ -2213,7 +2213,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 411288846}
   - {fileID: 176441745}
   - {fileID: 1683674125}
   - {fileID: 2087412098}
@@ -2415,6 +2414,8 @@ MonoBehaviour:
   curColor:
     serializedVersion: 2
     rgba: 0
+  player: {fileID: 1379116542}
+  ghost: {fileID: 1219550968}
 --- !u!212 &411288845
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2476,11 +2477,11 @@ Transform:
   m_GameObject: {fileID: 411288843}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.9207318, y: 0.25520688, z: 0.002779359}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 10, y: 10, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 384637925}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &425447508
 GameObject:
@@ -11007,6 +11008,7 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1078344229}
+  - {fileID: 411288846}
   - {fileID: 1219550968}
   - {fileID: 1379116542}
   - {fileID: 384637925}

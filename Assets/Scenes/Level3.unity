@@ -3248,6 +3248,8 @@ MonoBehaviour:
   curColor:
     serializedVersion: 2
     rgba: 0
+  player: {fileID: 1379116542}
+  ghost: {fileID: 1219550968}
 --- !u!212 &411288845
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8451,6 +8453,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
+  colorChangeCount: 0
+  isBeingChased: 0
   myR:
     serializedVersion: 2
     rgba: 4285624809
