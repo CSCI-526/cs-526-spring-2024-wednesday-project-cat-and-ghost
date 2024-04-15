@@ -3373,6 +3373,8 @@ MonoBehaviour:
   curColor:
     serializedVersion: 2
     rgba: 0
+  player: {fileID: 973319622}
+  ghost: {fileID: 1744117830}
 --- !u!1 &578332944
 GameObject:
   m_ObjectHideFlags: 0
@@ -5633,6 +5635,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
+  colorChangeCount: 0
+  isBeingChased: 0
   myR:
     serializedVersion: 2
     rgba: 4285624809
