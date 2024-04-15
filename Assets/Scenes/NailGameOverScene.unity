@@ -793,7 +793,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "You've Killed By Nails :(\n          Game Over!"
+  m_Text: "You've Been Killed By Nails :(\n          Game Over!"
 --- !u!222 &1701566562
 CanvasRenderer:
   m_ObjectHideFlags: 0
