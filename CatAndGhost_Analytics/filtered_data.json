@@ -1,0 +1,2468 @@
+{
+    "-NuXn6xTbeDXwMiPxgGQ": {
+        "DeathdateTime": "2024-04-03 00:11:34",
+        "endTime": 3.299999952316284,
+        "id": "20240403071134559",
+        "killedBy": "Nail",
+        "level": "Level3",
+        "positionX": -5.1279778480529785,
+        "positionY": -2.793388605117798
+    },
+    "-NuXnZ_v34PPeHjVDHt1": {
+        "DeathdateTime": "2024-04-03 00:13:32",
+        "endTime": 17.119998931884766,
+        "id": "20240403071332013",
+        "killedBy": "Nail",
+        "level": "Level3",
+        "positionX": 0.6054481863975525,
+        "positionY": -3.3797967433929443
+    },
+    "-NuXyZJpKvwACEt3VLLI": {
+        "DeathdateTime": "2024-04-03 01:01:34",
+        "endTime": 5.299999713897705,
+        "id": "20240403080134228",
+        "killedBy": "Nail",
+        "level": "Level3",
+        "positionX": -5.113644123077393,
+        "positionY": -3.754544973373413
+    },
+    "-NuY61SIzgBxwR8ICl5b": {
+        "DeathdateTime": "2024-04-03 01:38:34",
+        "endTime": 6.019999980926514,
+        "id": "20240403083834848",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -0.5392431020736694,
+        "positionY": -0.07576102763414383
+    },
+    "-NuY7NA1Ain6EP7lTw5k": {
+        "DeathdateTime": "2024-04-03 01:44:26",
+        "endTime": 20.15999984741211,
+        "id": "20240403084426059",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 3.941134214401245,
+        "positionY": -1.5187848806381226
+    },
+    "-NuY7SUqTAMTyqsEUkJy": {
+        "DeathdateTime": "2024-04-03 01:44:47",
+        "endTime": 8.626562118530273,
+        "id": "20240403084447986",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.381248712539673,
+        "positionY": -1.3336008787155151
+    },
+    "-NuY7UId1LVccxjvd2D6": {
+        "DeathdateTime": "2024-04-03 01:44:55",
+        "endTime": 6.431230545043945,
+        "id": "20240403084455397",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -5.207988739013672,
+        "positionY": 3.244558334350586
+    },
+    "-NuYAgxUIx9LIJ19d7NC": {
+        "DeathdateTime": "2024-04-03 01:58:57",
+        "endTime": 9.279999732971191,
+        "id": "20240403085857519",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 2.7587199211120605,
+        "positionY": 1.9952716827392578
+    },
+    "-NuYBPSNsVTMJGUZ1IxU": {
+        "DeathdateTime": "2024-04-03 02:02:04",
+        "endTime": 3.819310188293457,
+        "id": "20240403090204043",
+        "killedBy": "Nail",
+        "level": "Level1",
+        "positionX": -3.933239221572876,
+        "positionY": -0.37034374475479126
+    },
+    "-NuYCEQ0VfnEf44EOtJr": {
+        "DeathdateTime": "2024-04-03 02:05:40",
+        "endTime": 3.4800000190734863,
+        "id": "20240403090540792",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 0.44262611865997314,
+        "positionY": -1.668923020362854
+    },
+    "-NuYCGJ7Epgfvh8ofU8Q": {
+        "DeathdateTime": "2024-04-03 02:05:48",
+        "endTime": 5.449440002441406,
+        "id": "20240403090548725",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 2.0493013858795166,
+        "positionY": -0.19062082469463348
+    },
+    "-NuYCHqMQs8srEY42brN": {
+        "DeathdateTime": "2024-04-03 02:05:54",
+        "endTime": 5.2675251960754395,
+        "id": "20240403090554967",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 1.977891206741333,
+        "positionY": -0.09262457489967346
+    },
+    "-NuYCTuOR7-VlzQU-WVq": {
+        "DeathdateTime": "2024-04-03 02:06:44",
+        "endTime": 9.57789134979248,
+        "id": "20240403090644431",
+        "killedBy": "Nail",
+        "level": "Level1",
+        "positionX": 5.084451675415039,
+        "positionY": 3.072880983352661
+    },
+    "-NuYCV9Nu5HQdFh8CR7x": {
+        "DeathdateTime": "2024-04-03 02:06:49",
+        "endTime": 3.760560989379883,
+        "id": "20240403090649514",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -0.9210021495819092,
+        "positionY": -2.491992712020874
+    },
+    "-NuYDLR1KVSxrAGpK-CQ": {
+        "DeathdateTime": "2024-04-03 02:10:31",
+        "endTime": 4.9604058265686035,
+        "id": "20240403091031733",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -1.7276633977890015,
+        "positionY": -1.258962631225586
+    },
+    "-NuYDNjURSAOI68CbFHk": {
+        "DeathdateTime": "2024-04-03 02:10:41",
+        "endTime": 7.782677173614502,
+        "id": "20240403091041319",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 0.9525202512741089,
+        "positionY": -3.0221645832061768
+    },
+    "-NuYDPmaM7plsVZhj-LG": {
+        "DeathdateTime": "2024-04-03 02:10:49",
+        "endTime": 6.825465202331543,
+        "id": "20240403091049616",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 2.197768211364746,
+        "positionY": -0.8720278143882751
+    },
+    "-NuYDSlIE2yv4svyhvhf": {
+        "DeathdateTime": "2024-04-03 02:11:01",
+        "endTime": 11.41385269165039,
+        "id": "20240403091101927",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 2.3274943828582764,
+        "positionY": -0.9967921376228333
+    },
+    "-NuYFBwevnq1KnuHAwK2": {
+        "DeathdateTime": "2024-04-03 02:18:37",
+        "endTime": 5.86130428314209,
+        "id": "20240403091837142",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 0.9764198064804077,
+        "positionY": 1.1316496133804321
+    },
+    "-Nu_OekNfGgF9DxCX1tQ": {
+        "DeathdateTime": "2024-04-03 12:19:12",
+        "endTime": 22.454599380493164,
+        "id": "20240403191912898",
+        "killedBy": "Nail",
+        "level": "Tutorial",
+        "positionX": 3.9285640716552734,
+        "positionY": 1.4829838275909424
+    },
+    "-Nu_OlyEmRblPXiwFmMl": {
+        "DeathdateTime": "2024-04-03 12:19:42",
+        "endTime": 7.441298961639404,
+        "id": "20240403191942399",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 0.4098688066005707,
+        "positionY": -0.4324015974998474
+    },
+    "-Nu_Ov8vZpWOpWuWSRaL": {
+        "DeathdateTime": "2024-04-03 12:20:20",
+        "endTime": 3.4543981552124023,
+        "id": "20240403192020046",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -2.4739623069763184,
+        "positionY": -1.2953262329101562
+    },
+    "-Nu_OxaT4AAECUTWDRWJ": {
+        "DeathdateTime": "2024-04-03 12:20:30",
+        "endTime": 9.093097686767578,
+        "id": "20240403192030111",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.1457868814468384,
+        "positionY": 2.242060661315918
+    },
+    "-NuaOhB7jRbMr5msogT-": {
+        "DeathdateTime": "2024-04-03 16:59:00",
+        "endTime": 31.97410011291504,
+        "id": "20240403235900091",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 2.3797359466552734,
+        "positionY": 1.5669411420822144
+    },
+    "-NuaOl9z6v7mKjnwcRyD": {
+        "DeathdateTime": "2024-04-03 16:59:16",
+        "endTime": 14.023098945617676,
+        "id": "20240403235916458",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 3.9547295570373535,
+        "positionY": -3.9067392349243164
+    },
+    "-NuaP5JWnsPDjd9Q68wR": {
+        "DeathdateTime": "2024-04-03 17:00:43",
+        "endTime": 33.4568977355957,
+        "id": "20240404000043020",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 3.181513547897339,
+        "positionY": -3.124999523162842
+    },
+    "-NuaPAPdO4tu6KyRgpP2": {
+        "DeathdateTime": "2024-04-03 17:01:03",
+        "endTime": 3.8441965579986572,
+        "id": "20240404000103952",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -4.145018100738525,
+        "positionY": 0.08885970711708069
+    },
+    "-NuaPLZhizJ64QsMu3Jt": {
+        "DeathdateTime": "2024-04-03 17:01:49",
+        "endTime": 14.125295639038086,
+        "id": "20240404000149650",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 4.432125091552734,
+        "positionY": -1.1689921617507935
+    },
+    "-NuaPRfwhSrf10xUdWi7": {
+        "DeathdateTime": "2024-04-03 17:02:14",
+        "endTime": 9.238595008850098,
+        "id": "20240404000214697",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 0.711254358291626,
+        "positionY": -3.9130215644836426
+    },
+    "-NuaPSotu_8fOg5JkQWU": {
+        "DeathdateTime": "2024-04-03 17:02:19",
+        "endTime": 3.5817947387695312,
+        "id": "20240404000219417",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -1.444870948791504,
+        "positionY": -4.181005954742432
+    },
+    "-NuaPZT0kowIwVk-1qli": {
+        "DeathdateTime": "2024-04-03 17:02:46",
+        "endTime": 25.527894973754883,
+        "id": "20240404000246543",
+        "killedBy": "Nail",
+        "level": "Level3",
+        "positionX": 1.4717280864715576,
+        "positionY": -3.436122417449951
+    },
+    "-NuaPd5J3jKPpuJjV0RU": {
+        "DeathdateTime": "2024-04-03 17:03:05",
+        "endTime": 17.74769401550293,
+        "id": "20240404000305528",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 1.3713853359222412,
+        "positionY": 0.4787193238735199
+    },
+    "-Nua_-HUurtZxieH8-0Q": {
+        "DeathdateTime": "2024-04-03 17:48:21",
+        "endTime": 11.342299461364746,
+        "id": "20240404004821889",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 2.7450647354125977,
+        "positionY": 3.8504061698913574
+    },
+    "-Nua_95KV28rJf8vI-TI": {
+        "DeathdateTime": "2024-04-03 17:47:59",
+        "endTime": 12.049899101257324,
+        "id": "20240404004759586",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 1.6248313188552856,
+        "positionY": 0.3510568141937256
+    },
+    "-Nua_AyFf39TEanxd6oL": {
+        "DeathdateTime": "2024-04-03 17:48:07",
+        "endTime": 4.203599452972412,
+        "id": "20240404004807319",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -2.62725567817688,
+        "positionY": 3.2769970893859863
+    },
+    "-Nua_DX7Yd0svZB4EL7t": {
+        "DeathdateTime": "2024-04-03 17:48:17",
+        "endTime": 9.050199508666992,
+        "id": "20240404004817769",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 1.9526102542877197,
+        "positionY": -1.9657905101776123
+    },
+    "-Nua_EEJ-0Fmg7mTCj9X": {
+        "DeathdateTime": "2024-04-03 17:49:23",
+        "endTime": 4.035299301147461,
+        "id": "20240404004923201",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.2799999713897705,
+        "positionY": -3.5731446743011475
+    },
+    "-Nua_M7_PCM5fotBflVU": {
+        "DeathdateTime": "2024-04-03 17:48:53",
+        "endTime": 1.7868983745574951,
+        "id": "20240404004853035",
+        "killedBy": "Nail",
+        "level": "Level3",
+        "positionX": -1.546815276145935,
+        "positionY": 1.6957052946090698
+    },
+    "-Nua_M7a5m0x4nrQ8PxK": {
+        "DeathdateTime": "2024-04-03 17:48:53",
+        "endTime": 1.7868983745574951,
+        "id": "20240404004853034",
+        "killedBy": "Nail",
+        "level": "Level3",
+        "positionX": -1.546815276145935,
+        "positionY": 1.6957052946090698
+    },
+    "-Nua_NdrifjY21bjmmFm": {
+        "DeathdateTime": "2024-04-03 17:50:01",
+        "endTime": 13.362198829650879,
+        "id": "20240404005001826",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 2.275916576385498,
+        "positionY": -3.1059908866882324
+    },
+    "-Nua_OiJXcBfS8qFXO_0": {
+        "DeathdateTime": "2024-04-03 17:49:03",
+        "endTime": 6.804198265075684,
+        "id": "20240404004903635",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -2.7190232276916504,
+        "positionY": 2.3915963172912598
+    },
+    "-Nua_Q0Q_j1bKClIq8Zb": {
+        "DeathdateTime": "2024-04-03 17:50:11",
+        "endTime": 8.982797622680664,
+        "id": "20240404005011493",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -3.243544101715088,
+        "positionY": -3.1549932956695557
+    },
+    "-Nua_SbgRkdrCSTypbuU": {
+        "DeathdateTime": "2024-04-03 17:49:19",
+        "endTime": 13.847097396850586,
+        "id": "20240404004919600",
+        "killedBy": "Nail",
+        "level": "Level3",
+        "positionX": 5.289400100708008,
+        "positionY": 2.203395128250122
+    },
+    "-Nua_SbheiOEmsrA-DiZ": {
+        "DeathdateTime": "2024-04-03 17:49:19",
+        "endTime": 13.847097396850586,
+        "id": "20240404004919601",
+        "killedBy": "Nail",
+        "level": "Level3",
+        "positionX": 5.289400100708008,
+        "positionY": 2.203395128250122
+    },
+    "-NuaayjjUSsVihCXu639": {
+        "DeathdateTime": "2024-04-03 17:56:58",
+        "endTime": 8.055697441101074,
+        "id": "20240404005658946",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 0.4924236536026001,
+        "positionY": -2.61686635017395
+    },
+    "-Nuab-btsydO4cl_w8eY": {
+        "DeathdateTime": "2024-04-03 17:57:06",
+        "endTime": 6.787197589874268,
+        "id": "20240404005706696",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 0.10465988516807556,
+        "positionY": 0.5353577136993408
+    },
+    "-Nuab1zAlJyIw1TRjNz9": {
+        "DeathdateTime": "2024-04-03 17:57:16",
+        "endTime": 8.984097480773926,
+        "id": "20240404005716374",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.0137090682983398,
+        "positionY": 0.384427934885025
+    },
+    "-Nuad3JSQq9b66pjdQS_": {
+        "DeathdateTime": "2024-04-03 18:06:07",
+        "endTime": 3.5763986110687256,
+        "id": "20240404010607002",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -1.8589805364608765,
+        "positionY": 0.0905546098947525
+    },
+    "-Nuae9GEG0kpn_hnbkgZ": {
+        "DeathdateTime": "2024-04-03 18:10:53",
+        "endTime": 42.21509552001953,
+        "id": "20240404011053429",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.2799999713897705,
+        "positionY": -3.609999895095825
+    },
+    "-Nuag-99MhRx6QQvLHHL": {
+        "DeathdateTime": "2024-04-03 18:18:56",
+        "endTime": 5.550063610076904,
+        "id": "20240404011856192",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -3.3190646171569824,
+        "positionY": 1.746290922164917
+    },
+    "-Nuag4d-a1Vxwjga9xNd": {
+        "DeathdateTime": "2024-04-03 18:19:18",
+        "endTime": 19.287363052368164,
+        "id": "20240404011918860",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 3.025080680847168,
+        "positionY": -3.991617441177368
+    },
+    "-Nuag7d2LI79j-6KuFLi": {
+        "DeathdateTime": "2024-04-03 18:19:31",
+        "endTime": 7.156032085418701,
+        "id": "20240404011931248",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.2149574756622314,
+        "positionY": 2.0017642974853516
+    },
+    "-NuagEwzW4-9tgIm_dAC": {
+        "DeathdateTime": "2024-04-03 18:20:01",
+        "endTime": 17.863161087036133,
+        "id": "20240404012001095",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 5.840333938598633,
+        "positionY": 1.7928082942962646
+    },
+    "-NuagGpSn9DjBPzAJU8H": {
+        "DeathdateTime": "2024-04-03 18:20:08",
+        "endTime": 3.922731399536133,
+        "id": "20240404012008898",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -2.5256664752960205,
+        "positionY": -2.6907308101654053
+    },
+    "-NuahtHlgjQc5ff5Gu-D": {
+        "DeathdateTime": "2024-04-03 18:27:12",
+        "endTime": 3.2537999153137207,
+        "id": "20240404012712605",
+        "killedBy": "Nail",
+        "level": "Level1",
+        "positionX": 1.4967771768569946,
+        "positionY": -1.4369761943817139
+    },
+    "-NuahuMyKeao2JgUXRVV": {
+        "DeathdateTime": "2024-04-03 18:27:17",
+        "endTime": 3.411561965942383,
+        "id": "20240404012717157",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 1.732284426689148,
+        "positionY": 0.09993406385183334
+    },
+    "-Nub2sjMbmx_xpJXT3KK": {
+        "DeathdateTime": "2024-04-03 20:03:17",
+        "endTime": 24.380998611450195,
+        "id": "20240404030317256",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 2.5956244468688965,
+        "positionY": 2.641522169113159
+    },
+    "-Nub2y_GWQk2_YEfWlRm": {
+        "DeathdateTime": "2024-04-03 20:03:41",
+        "endTime": 11.457999229431152,
+        "id": "20240404030341471",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 1.5592544078826904,
+        "positionY": 0.27559810876846313
+    },
+    "-Nub353hnwwcIVzejIR9": {
+        "DeathdateTime": "2024-04-03 20:04:12",
+        "endTime": 4.606998443603516,
+        "id": "20240404030412151",
+        "killedBy": "Nail",
+        "level": "Level3",
+        "positionX": -3.3393938541412354,
+        "positionY": -2.445761203765869
+    },
+    "-Nub3Vq4rE3AiN4kYPea": {
+        "DeathdateTime": "2024-04-03 20:06:01",
+        "endTime": 26.755329132080078,
+        "id": "20240404030601803",
+        "killedBy": "Ghost",
+        "level": "Tutorial",
+        "positionX": -2.1908066272735596,
+        "positionY": 0.6750364303588867
+    },
+    "-Nub479kISxUPwx4D2fJ": {
+        "DeathdateTime": "2024-04-03 20:08:42",
+        "endTime": 4.388999938964844,
+        "id": "20240404030842720",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.2799999713897705,
+        "positionY": -3.609999895095825
+    },
+    "-Nub4lvhchu-QhQg6FHr": {
+        "DeathdateTime": "2024-04-03 20:11:33",
+        "endTime": 9.719200134277344,
+        "id": "20240404031133983",
+        "killedBy": "Nail",
+        "level": "Level1",
+        "positionX": 5.087427616119385,
+        "positionY": 3.27624249458313
+    },
+    "-Nub4t1Q1wBvpWtfLPus": {
+        "DeathdateTime": "2024-04-03 20:12:03",
+        "endTime": 17.830398559570312,
+        "id": "20240404031203084",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 2.713555097579956,
+        "positionY": 2.4809730052948
+    },
+    "-Nub55S25kzRHkBW3EET": {
+        "DeathdateTime": "2024-04-03 20:12:58",
+        "endTime": 26.011030197143555,
+        "id": "20240404031258035",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -3.1928083896636963,
+        "positionY": -3.7200000286102295
+    },
+    "-Nub5K_T6zLlaOlaJQuD": {
+        "DeathdateTime": "2024-04-03 20:14:00",
+        "endTime": 32.280696868896484,
+        "id": "20240404031400012",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -4.131051540374756,
+        "positionY": 2.1558616161346436
+    },
+    "-NubHClZ3LApD7HAvrGr": {
+        "DeathdateTime": "2024-04-03 21:05:53",
+        "endTime": 6.17419958114624,
+        "id": "20240404040553472",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 0.3475193977355957,
+        "positionY": -4.175889492034912
+    },
+    "-NubHKGFyI9EgDfUY1Pa": {
+        "DeathdateTime": "2024-04-03 21:06:24",
+        "endTime": 11.326099395751953,
+        "id": "20240404040624274",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 1.8855698108673096,
+        "positionY": -0.03547181934118271
+    },
+    "-NubHMOkunVJOAIkxG2_": {
+        "DeathdateTime": "2024-04-03 21:06:32",
+        "endTime": 4.205499172210693,
+        "id": "20240404040632991",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.8388988971710205,
+        "positionY": -2.84256911277771
+    },
+    "-NubHRwNfJZFukxFp-xE": {
+        "DeathdateTime": "2024-04-03 21:06:55",
+        "endTime": 19.255098342895508,
+        "id": "20240404040655607",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.7953417301177979,
+        "positionY": 3.0201575756073
+    },
+    "-NucfZS6Luvo1z0uwNB7": {
+        "DeathdateTime": "2024-04-04 03:36:17",
+        "endTime": 6.904964923858643,
+        "id": "20240404103617367",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -1.8478423357009888,
+        "positionY": 0.8699491024017334
+    },
+    "-NucfehPesonHHdsIYmy": {
+        "DeathdateTime": "2024-04-04 03:36:43",
+        "endTime": 11.541797637939453,
+        "id": "20240404103643064",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 0.8349511027336121,
+        "positionY": -3.2340164184570312
+    },
+    "-NucfmIG-Eqoz4rsJqkL": {
+        "DeathdateTime": "2024-04-04 03:37:14",
+        "endTime": 3.2992637157440186,
+        "id": "20240404103714164",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.8391473293304443,
+        "positionY": -2.089780569076538
+    },
+    "-NueP2uCx2Au7IszcVES": {
+        "DeathdateTime": "2024-04-04 11:39:00",
+        "endTime": 70.39409637451172,
+        "id": "20240404183900583",
+        "killedBy": "Nail",
+        "level": "Tutorial",
+        "positionX": 4.988831996917725,
+        "positionY": 2.2396700382232666
+    },
+    "-NuePKLueou8J1rMRBOW": {
+        "DeathdateTime": "2024-04-04 11:40:11",
+        "endTime": 9.16589641571045,
+        "id": "20240404184011968",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.9788230657577515,
+        "positionY": -1.3531253337860107
+    },
+    "-NuePN4pHJ5q2Eg4JJ6R": {
+        "DeathdateTime": "2024-04-04 11:40:23",
+        "endTime": 8.440696716308594,
+        "id": "20240404184023247",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.8391473293304443,
+        "positionY": -2.8452980518341064
+    },
+    "-NueQIUOpj24blkbTqHw": {
+        "DeathdateTime": "2024-04-04 11:44:26",
+        "endTime": 16.1117000579834,
+        "id": "20240404184426472",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -0.2810763418674469,
+        "positionY": -0.1653389185667038
+    },
+    "-NueQKSsKUHWroFvm9Wo": {
+        "DeathdateTime": "2024-04-04 11:44:34",
+        "endTime": 5.367799282073975,
+        "id": "20240404184434637",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -4.148279666900635,
+        "positionY": -0.8980312347412109
+    },
+    "-NueQOsVh-HH5WF0sof1": {
+        "DeathdateTime": "2024-04-04 11:44:52",
+        "endTime": 15.310998916625977,
+        "id": "20240404184452733",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 0.6354478597640991,
+        "positionY": -1.915035367012024
+    },
+    "-NuhAohG0QnxwBYd3oBb": {
+        "DeathdateTime": "2024-04-05 00:35:41",
+        "endTime": 17.53809928894043,
+        "id": "20240405073541510",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": 0.24290995299816132,
+        "positionY": -4.228194236755371
+    },
+    "-NuhAxgCdrYpYg2c-6ur": {
+        "DeathdateTime": "2024-04-05 00:36:18",
+        "endTime": 12.874530792236328,
+        "id": "20240405073618227",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 1.774496078491211,
+        "positionY": -0.7738292217254639
+    },
+    "-NuobZHD_CfP3rQKAs2W": {
+        "DeathdateTime": "2024-04-06 11:14:14",
+        "endTime": 6.031099796295166,
+        "id": "20240406181414475",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -1.5279717445373535,
+        "positionY": -1.4311683177947998
+    },
+    "-NuobaQ-2gNyVkTekOOQ": {
+        "DeathdateTime": "2024-04-06 11:14:23",
+        "endTime": 7.324399471282959,
+        "id": "20240406181423536",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -1.963743805885315,
+        "positionY": -2.4961507320404053
+    },
+    "-NuqDfHuun_1oBcC0s7n": {
+        "DeathdateTime": "2024-04-06 18:44:45",
+        "endTime": 6.636699676513672,
+        "id": "20240407014445177",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -1.2580687999725342,
+        "positionY": -3.278280019760132
+    },
+    "-NuqDmbAFjXmIc3AdBII": {
+        "DeathdateTime": "2024-04-06 18:45:15",
+        "endTime": 9.687199592590332,
+        "id": "20240407014515694",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 1.9961148500442505,
+        "positionY": -0.2244952768087387
+    },
+    "-NuqDpVK58_fATY2fubE": {
+        "DeathdateTime": "2024-04-06 18:45:27",
+        "endTime": 10.266798973083496,
+        "id": "20240407014527565",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -0.27009883522987366,
+        "positionY": -0.16562624275684357
+    },
+    "-NuqDsFbDLCKeLezC9wc": {
+        "DeathdateTime": "2024-04-06 18:45:38",
+        "endTime": 9.334598541259766,
+        "id": "20240407014538397",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 0.40111568570137024,
+        "positionY": -2.8136277198791504
+    },
+    "-NuqDv5_FgNLuizHhBFA": {
+        "DeathdateTime": "2024-04-06 18:45:50",
+        "endTime": 9.90149974822998,
+        "id": "20240407014550564",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": 0.23975233733654022,
+        "positionY": -2.438833713531494
+    },
+    "-NuqDyYCpnog4yJ9lpnY": {
+        "DeathdateTime": "2024-04-06 18:46:04",
+        "endTime": 10.747398376464844,
+        "id": "20240407014604607",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 0.1357453316450119,
+        "positionY": -1.7637791633605957
+    },
+    "-NuqE0BwUxWBxlG5pFKX": {
+        "DeathdateTime": "2024-04-06 18:46:15",
+        "endTime": 9.516900062561035,
+        "id": "20240407014615536",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": 0.2536126375198364,
+        "positionY": -1.8039977550506592
+    },
+    "-NuqE3Uyg01qDbPWR5ly": {
+        "DeathdateTime": "2024-04-06 18:46:29",
+        "endTime": 11.97979736328125,
+        "id": "20240407014629054",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": 3.4270730018615723,
+        "positionY": -3.263103485107422
+    },
+    "-NuqE5IwF1sVvcFKvWFp": {
+        "DeathdateTime": "2024-04-06 18:46:36",
+        "endTime": 5.276397228240967,
+        "id": "20240407014636409",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -3.6991288661956787,
+        "positionY": 2.48190975189209
+    },
+    "-NuqE8aMzha6SZCJK0I3": {
+        "DeathdateTime": "2024-04-06 18:46:49",
+        "endTime": 11.911600112915039,
+        "id": "20240407014649841",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": 0.2541654407978058,
+        "positionY": -2.678107261657715
+    },
+    "-NuqEDRIkcWh_a_cKNly": {
+        "DeathdateTime": "2024-04-06 18:47:09",
+        "endTime": 18.28119659423828,
+        "id": "20240407014709709",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 3.1991469860076904,
+        "positionY": -0.25258469581604004
+    },
+    "-NuqEFIituc_zQpRk6wE": {
+        "DeathdateTime": "2024-04-06 18:47:17",
+        "endTime": 6.35149621963501,
+        "id": "20240407014717329",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -2.677314281463623,
+        "positionY": -3.1549994945526123
+    },
+    "-NuqEGVfBdYeiqF5DuaV": {
+        "DeathdateTime": "2024-04-06 18:47:22",
+        "endTime": 3.9394962787628174,
+        "id": "20240407014722419",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -2.5568506717681885,
+        "positionY": 2.837855100631714
+    },
+    "-NuqErh2_V213NcEVyXA": {
+        "DeathdateTime": "2024-04-06 18:49:58",
+        "endTime": 21.8927001953125,
+        "id": "20240407014958717",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 2.161663293838501,
+        "positionY": -4.175006866455078
+    },
+    "-Nur9t29dwyTHuywCVDR": {
+        "DeathdateTime": "2024-04-06 21:50:48",
+        "endTime": 45.01390075683594,
+        "id": "20240407045048030",
+        "killedBy": "Nail",
+        "level": "Tutorial",
+        "positionX": -1.0810136795043945,
+        "positionY": -3.2524425983428955
+    },
+    "-NurAHpDQm9_VhbRmUAa": {
+        "DeathdateTime": "2024-04-06 21:52:33",
+        "endTime": 26.03166389465332,
+        "id": "20240407045233559",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -0.5936869978904724,
+        "positionY": -2.4417812824249268
+    },
+    "-NurAOA3RYgCuMPIlluy": {
+        "DeathdateTime": "2024-04-06 21:52:59",
+        "endTime": 11.950729370117188,
+        "id": "20240407045259592",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 2.7450597286224365,
+        "positionY": 0.44885823130607605
+    },
+    "-NurAf9_21SNyQQRBPmN": {
+        "DeathdateTime": "2024-04-06 21:54:13",
+        "endTime": 14.525994300842285,
+        "id": "20240407045413288",
+        "killedBy": "Ghost",
+        "level": "Tutorial",
+        "positionX": 0.3546622693538666,
+        "positionY": -0.7308844923973083
+    },
+    "-NurAjTtAMK2J-NnFyf-": {
+        "DeathdateTime": "2024-04-06 21:54:30",
+        "endTime": 15.138693809509277,
+        "id": "20240407045430973",
+        "killedBy": "Ghost",
+        "level": "Tutorial",
+        "positionX": -1.824777603149414,
+        "positionY": -2.3543500900268555
+    },
+    "-NurB8pglufHeT-aySto": {
+        "DeathdateTime": "2024-04-06 21:56:18",
+        "endTime": 11.283159255981445,
+        "id": "20240407045618785",
+        "killedBy": "Ghost",
+        "level": "Tutorial",
+        "positionX": 0.333802193403244,
+        "positionY": -1.8748472929000854
+    },
+    "-NurBDOoctYNximCsJmj": {
+        "DeathdateTime": "2024-04-06 21:56:37",
+        "endTime": 15.168800354003906,
+        "id": "20240407045637629",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": 3.4485161304473877,
+        "positionY": -3.5106780529022217
+    },
+    "-Nuup_A3lyGfZ5SQAfcC": {
+        "DeathdateTime": "2024-04-07 16:13:11",
+        "endTime": 28.161998748779297,
+        "id": "20240407231311380",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.4964163303375244,
+        "positionY": -3.2142724990844727
+    },
+    "-NuuphEJTiXuqXBpt6yv": {
+        "DeathdateTime": "2024-04-07 16:13:44",
+        "endTime": 4.059998512268066,
+        "id": "20240407231344628",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -4.145049571990967,
+        "positionY": -1.3335154056549072
+    },
+    "-Nuupl-6R-GRfVI_wGMD": {
+        "DeathdateTime": "2024-04-07 16:14:00",
+        "endTime": 12.956997871398926,
+        "id": "20240407231400125",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.2940672636032104,
+        "positionY": 3.467954158782959
+    },
+    "-NuusiMMXTYDb5GMzc-O": {
+        "DeathdateTime": "2024-04-07 16:26:55",
+        "endTime": 15.497997283935547,
+        "id": "20240407232655796",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 0.8946484923362732,
+        "positionY": 0.8613170385360718
+    },
+    "-NuusnNKun7HO1IE0zPe": {
+        "DeathdateTime": "2024-04-07 16:27:16",
+        "endTime": 6.940997123718262,
+        "id": "20240407232716341",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 0.23032929003238678,
+        "positionY": 0.4577766954898834
+    },
+    "-NuusrUvVSAeirtZzC8b": {
+        "DeathdateTime": "2024-04-07 16:27:33",
+        "endTime": 15.281996726989746,
+        "id": "20240407232733281",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 2.2861998081207275,
+        "positionY": 2.053645372390747
+    },
+    "-Nuutqlgc-QROTUMgIfi": {
+        "DeathdateTime": "2024-04-07 16:31:52",
+        "endTime": 4.122662544250488,
+        "id": "20240407233152278",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -3.6741671562194824,
+        "positionY": -3.7200000286102295
+    },
+    "-NuutubKUfAHlA9Kf0cb": {
+        "DeathdateTime": "2024-04-07 16:32:08",
+        "endTime": 13.975662231445312,
+        "id": "20240407233208180",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.2149999141693115,
+        "positionY": 1.3508018255233765
+    },
+    "-Nuuu4JiqrBZJJZjVYQ6": {
+        "DeathdateTime": "2024-04-07 16:32:52",
+        "endTime": 9.82800006866455,
+        "id": "20240407233252045",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": -1.7754831314086914,
+        "positionY": 0.21468406915664673
+    },
+    "-Nuuu6uf1xFXpscRhw5y": {
+        "DeathdateTime": "2024-04-07 16:33:02",
+        "endTime": 5.223661422729492,
+        "id": "20240407233302608",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -4.14500093460083,
+        "positionY": 0.8309493064880371
+    },
+    "-Nuuu9mLdASTNFnI5jol": {
+        "DeathdateTime": "2024-04-07 16:33:14",
+        "endTime": 9.701000213623047,
+        "id": "20240407233314424",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": -1.533442497253418,
+        "positionY": 1.0985695123672485
+    },
+    "-NuuuRmMBcie6xALgjya": {
+        "DeathdateTime": "2024-04-07 16:34:28",
+        "endTime": 13.369999885559082,
+        "id": "20240407233428149",
+        "killedBy": "Nail",
+        "level": "Tutorial",
+        "positionX": -0.06413659453392029,
+        "positionY": -3.243178129196167
+    },
+    "-NuvLkl57Pi6XmMMe0XE": {
+        "DeathdateTime": "2024-04-07 18:38:09",
+        "endTime": 34.82419967651367,
+        "id": "20240408013809897",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 6.126053810119629,
+        "positionY": -1.1284778118133545
+    },
+    "-NuvLm3qqqAoEIi1QNnk": {
+        "DeathdateTime": "2024-04-07 18:38:15",
+        "endTime": 3.4548988342285156,
+        "id": "20240408013815400",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -1.575073003768921,
+        "positionY": -2.543497085571289
+    },
+    "-NuvLnJdIPvd1kV1UjEu": {
+        "DeathdateTime": "2024-04-07 18:38:20",
+        "endTime": 3.9534988403320312,
+        "id": "20240408013820503",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 0.1844913810491562,
+        "positionY": -3.032640218734741
+    },
+    "-NuvLu_4Q5R82lWgb-tZ": {
+        "DeathdateTime": "2024-04-07 18:38:50",
+        "endTime": 17.949499130249023,
+        "id": "20240408013850222",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": 3.4626121520996094,
+        "positionY": -2.193554162979126
+    },
+    "-NuvLwsBDebTEogQSV6x": {
+        "DeathdateTime": "2024-04-07 18:38:59",
+        "endTime": 8.17969799041748,
+        "id": "20240408013859645",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.2149763107299805,
+        "positionY": 0.783069372177124
+    },
+    "-NuvRYsHgGeyujnw7FLy": {
+        "DeathdateTime": "2024-04-07 19:03:29",
+        "endTime": 8.285693168640137,
+        "id": "20240408020329956",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.710498571395874,
+        "positionY": -3.529547929763794
+    },
+    "-NuvR_LDl-FbNKN2sKDb": {
+        "DeathdateTime": "2024-04-07 19:03:35",
+        "endTime": 4.613393306732178,
+        "id": "20240408020335904",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -1.0431498289108276,
+        "positionY": -2.6041698455810547
+    },
+    "-NuvRaJYfrpxA3pCko8P": {
+        "DeathdateTime": "2024-04-07 19:03:39",
+        "endTime": 2.716393232345581,
+        "id": "20240408020339678",
+        "killedBy": "Nail",
+        "level": "Level1",
+        "positionX": 1.4827308654785156,
+        "positionY": -2.0123353004455566
+    },
+    "-NuvRdeRN9cCYD9dEdHO": {
+        "DeathdateTime": "2024-04-07 19:03:53",
+        "endTime": 12.837300300598145,
+        "id": "20240408020353611",
+        "killedBy": "Nail",
+        "level": "Level1",
+        "positionX": 5.104067802429199,
+        "positionY": 3.5871658325195312
+    },
+    "-NuvRvVYoDFo3oxVXhHk": {
+        "DeathdateTime": "2024-04-07 19:05:06",
+        "endTime": 46.58919143676758,
+        "id": "20240408020506728",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.2799999713897705,
+        "positionY": -3.609999895095825
+    },
+    "-NuvSuOrVGSXyasOLEr2": {
+        "DeathdateTime": "2024-04-07 19:09:24",
+        "endTime": 99.4271011352539,
+        "id": "20240408020924261",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -3.3597002029418945,
+        "positionY": 3.691800117492676
+    },
+    "-NuvSwM4LRVaUyt2g_wt": {
+        "DeathdateTime": "2024-04-07 19:09:32",
+        "endTime": 3.956430196762085,
+        "id": "20240408020932352",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.2799999713897705,
+        "positionY": -3.609999895095825
+    },
+    "-NuvTWLzzqkXW7_4nmHE": {
+        "DeathdateTime": "2024-04-07 19:12:03",
+        "endTime": 46.979095458984375,
+        "id": "20240408021203718",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.2799999713897705,
+        "positionY": -3.609999895095825
+    },
+    "-NuvTmuMnP4EXDjWWyf1": {
+        "DeathdateTime": "2024-04-07 19:13:15",
+        "endTime": 4.120727062225342,
+        "id": "20240408021315676",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -3.700000047683716,
+        "positionY": -3.7200000286102295
+    },
+    "-NuvtyEH4hXSkLSgFR47": {
+        "DeathdateTime": "2024-04-07 21:12:00",
+        "endTime": 14.04089641571045,
+        "id": "20240408041200046",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 0.6968851089477539,
+        "positionY": -0.3725345730781555
+    },
+    "-Nuvu1uThhblKF6_dI1S": {
+        "DeathdateTime": "2024-04-07 21:12:19",
+        "endTime": 6.364995956420898,
+        "id": "20240408041219383",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.2037317752838135,
+        "positionY": 3.716527223587036
+    },
+    "-Nuvu7Kg-UilMnV6BLsM": {
+        "DeathdateTime": "2024-04-07 21:12:41",
+        "endTime": 20.628799438476562,
+        "id": "20240408041241525",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": 0.8635698556900024,
+        "positionY": 2.4520974159240723
+    },
+    "-Nuvu8mUPb4J-y0eE9FW": {
+        "DeathdateTime": "2024-04-07 21:12:47",
+        "endTime": 3.722595453262329,
+        "id": "20240408041247590",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -3.4418540000915527,
+        "positionY": -1.3489229679107666
+    },
+    "-NuvuAWkv8MxJ0wfw7GH": {
+        "DeathdateTime": "2024-04-07 21:12:54",
+        "endTime": 5.6206955909729,
+        "id": "20240408041254671",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.173953652381897,
+        "positionY": 3.4985134601593018
+    },
+    "-NuvuER77P6YAYSZ361h": {
+        "DeathdateTime": "2024-04-07 21:13:10",
+        "endTime": 13.788695335388184,
+        "id": "20240408041310750",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 1.8185685873031616,
+        "positionY": -0.23201556503772736
+    },
+    "-NuvuIo3dyRTgv1cECpR": {
+        "DeathdateTime": "2024-04-07 21:13:28",
+        "endTime": 16.396493911743164,
+        "id": "20240408041328693",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": 0.25859615206718445,
+        "positionY": -3.3694968223571777
+    },
+    "-NuzIZL4TW4Wl_bVixuo": {
+        "DeathdateTime": "2024-04-08 13:02:41",
+        "endTime": 5.864999294281006,
+        "id": "20240408200241488",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -2.444014072418213,
+        "positionY": 4.128273963928223
+    },
+    "-NuzIaHrIQZ3RK4aLkhh": {
+        "DeathdateTime": "2024-04-08 13:02:49",
+        "endTime": 6.660999298095703,
+        "id": "20240408200249461",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -0.9105930328369141,
+        "positionY": -2.3189661502838135
+    },
+    "-Nv3ya9Wvw0a6GG14tUe": {
+        "DeathdateTime": "2024-04-09 15:28:38",
+        "endTime": 10.988839149475098,
+        "id": "20240409222838752",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 0.6029136180877686,
+        "positionY": -2.824458599090576
+    },
+    "-Nv3yfNAmEd0OUque5MM": {
+        "DeathdateTime": "2024-04-09 15:29:00",
+        "endTime": 14.561758041381836,
+        "id": "20240409222900157",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 1.9848928451538086,
+        "positionY": -1.7800116539001465
+    },
+    "-Nv3ykRStXpMDi9g03eh": {
+        "DeathdateTime": "2024-04-09 15:29:20",
+        "endTime": 4.9256978034973145,
+        "id": "20240409222920913",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -2.585480213165283,
+        "positionY": 0.7547382712364197
+    },
+    "-Nv9BOEw-sGsAKJ6oaSn": {
+        "DeathdateTime": "2024-04-10 15:47:10",
+        "endTime": 5.621993541717529,
+        "id": "20240410224710402",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.2799999713897705,
+        "positionY": -3.609999895095825
+    },
+    "-Nv9BU1fB2BZsbmzuuiW": {
+        "DeathdateTime": "2024-04-10 15:47:34",
+        "endTime": 8.485993385314941,
+        "id": "20240410224734201",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 2.119746446609497,
+        "positionY": 1.3256216049194336
+    },
+    "-Nv9B_QDaRlOOVs4oB0N": {
+        "DeathdateTime": "2024-04-10 15:48:00",
+        "endTime": 6.1570000648498535,
+        "id": "20240410224800350",
+        "killedBy": "Nail",
+        "level": "Tutorial",
+        "positionX": 3.904987335205078,
+        "positionY": 2.065977096557617
+    },
+    "-Nv9BdAVAVT2LNv3-5oy": {
+        "DeathdateTime": "2024-04-10 15:48:15",
+        "endTime": 10.035999298095703,
+        "id": "20240410224815652",
+        "killedBy": "Ghost",
+        "level": "Tutorial",
+        "positionX": -2.5970170497894287,
+        "positionY": -0.3163510262966156
+    },
+    "-Nv9BplQHULGc2bI4iql": {
+        "DeathdateTime": "2024-04-10 15:49:07",
+        "endTime": 2.523426055908203,
+        "id": "20240410224907143",
+        "killedBy": "Nail",
+        "level": "Level1",
+        "positionX": 1.5394989252090454,
+        "positionY": -2.496506690979004
+    },
+    "-Nv9BqmZkD910qRqFK-e": {
+        "DeathdateTime": "2024-04-10 15:49:11",
+        "endTime": 2.5799875259399414,
+        "id": "20240410224911262",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 0.8189690709114075,
+        "positionY": -1.7592836618423462
+    },
+    "-Nv9Cmm5fY8n4L8kwN3f": {
+        "DeathdateTime": "2024-04-10 15:53:17",
+        "endTime": 3.094996452331543,
+        "id": "20240410225317132",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -2.1874966621398926,
+        "positionY": -2.2195191383361816
+    },
+    "-Nv9Crc0RFaks-Fb9Krt": {
+        "DeathdateTime": "2024-04-10 15:53:37",
+        "endTime": 3.0469961166381836,
+        "id": "20240410225337031",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.8391457796096802,
+        "positionY": -1.9466447830200195
+    },
+    "-Nv9CzKt1fgbV2rOo5Zl": {
+        "DeathdateTime": "2024-04-10 15:54:08",
+        "endTime": 29.13599967956543,
+        "id": "20240410225408628",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": -1.5027564764022827,
+        "positionY": 0.19123460352420807
+    },
+    "-Nv9D1sI_gheca3ubLFz": {
+        "DeathdateTime": "2024-04-10 15:54:23",
+        "endTime": 10.635994911193848,
+        "id": "20240410225423063",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 0.36369359493255615,
+        "positionY": 0.3221692144870758
+    },
+    "-Nv9D618fxwqkJ8GMx_3": {
+        "DeathdateTime": "2024-04-10 15:54:40",
+        "endTime": 51.97309494018555,
+        "id": "20240410225440114",
+        "killedBy": "Ghost",
+        "level": "Tutorial",
+        "positionX": 0.3687897026538849,
+        "positionY": 2.080213785171509
+    },
+    "-Nv9D8tFxOiLbc3A9t4b": {
+        "DeathdateTime": "2024-04-10 15:54:51",
+        "endTime": 16.20299530029297,
+        "id": "20240410225451865",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.2118594646453857,
+        "positionY": 1.2811005115509033
+    },
+    "-Nv9DA-9AwY9anqwz11i": {
+        "DeathdateTime": "2024-04-10 15:54:56",
+        "endTime": 13.04299545288086,
+        "id": "20240410225456430",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 0.4452753961086273,
+        "positionY": 1.1110079288482666
+    },
+    "-Nv9DCYg2XUpj0KnbeD-": {
+        "DeathdateTime": "2024-04-10 15:55:06",
+        "endTime": 8.732495307922363,
+        "id": "20240410225506898",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 0.4952857494354248,
+        "positionY": 2.8058557510375977
+    },
+    "-Nv9DDUUCSKyQ66jBjkl": {
+        "DeathdateTime": "2024-04-10 15:55:10",
+        "endTime": 14.602993965148926,
+        "id": "20240410225510663",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.9123326539993286,
+        "positionY": 0.8907162547111511
+    },
+    "-Nv9DG9vKF1UqNkvm4fd": {
+        "DeathdateTime": "2024-04-10 15:55:21",
+        "endTime": 10.690794944763184,
+        "id": "20240410225521697",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 0.6259441375732422,
+        "positionY": 2.5426418781280518
+    },
+    "-Nv9DHeutUMSiBJaGqSJ": {
+        "DeathdateTime": "2024-04-10 15:55:27",
+        "endTime": 13.88700008392334,
+        "id": "20240410225527810",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": 0.23848813772201538,
+        "positionY": -4.123386383056641
+    },
+    "-Nv9DJ2po39NOf6E7158": {
+        "DeathdateTime": "2024-04-10 15:55:33",
+        "endTime": 7.556294918060303,
+        "id": "20240410225533530",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -1.7102102041244507,
+        "positionY": -2.886462688446045
+    },
+    "-Nv9DK_-_DKpQ5n_TjcA": {
+        "DeathdateTime": "2024-04-10 15:55:39",
+        "endTime": 4.937795162200928,
+        "id": "20240410225539748",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 2.809443473815918,
+        "positionY": 2.260795831680298
+    },
+    "-Nv9DPTcNnB19iDiJapJ": {
+        "DeathdateTime": "2024-04-10 15:55:59",
+        "endTime": 16.221593856811523,
+        "id": "20240410225559712",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 2.1909384727478027,
+        "positionY": 2.080641746520996
+    },
+    "-Nv9DRY5HvEgsJ-XzMyd": {
+        "DeathdateTime": "2024-04-10 15:56:08",
+        "endTime": 8.855992317199707,
+        "id": "20240410225608195",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.6940398216247559,
+        "positionY": 3.2910749912261963
+    },
+    "-Nv9DRqrqLK4DfVx7FEn": {
+        "DeathdateTime": "2024-04-10 15:56:09",
+        "endTime": 8.729494094848633,
+        "id": "20240410225609562",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 2.7584950923919678,
+        "positionY": 1.4857069253921509
+    },
+    "-Nv9DW8Yuo4xMSZl72kQ": {
+        "DeathdateTime": "2024-04-10 15:56:27",
+        "endTime": 12.418999671936035,
+        "id": "20240410225627110",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": 0.15832705795764923,
+        "positionY": -2.038468837738037
+    },
+    "-Nv9D_nDZBZmZkqWk1GC": {
+        "DeathdateTime": "2024-04-10 15:56:46",
+        "endTime": 13.310993194580078,
+        "id": "20240410225646192",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 1.770224928855896,
+        "positionY": 0.22847941517829895
+    },
+    "-Nv9Deleh6FmknczJWiO": {
+        "DeathdateTime": "2024-04-10 15:57:06",
+        "endTime": 11.470600128173828,
+        "id": "20240410225706574",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": -1.6309750080108643,
+        "positionY": 1.6935625076293945
+    },
+    "-Nv9Dj4CIblIowH-dBlY": {
+        "DeathdateTime": "2024-04-10 15:57:24",
+        "endTime": 12.587499618530273,
+        "id": "20240410225724207",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": 3.4577696323394775,
+        "positionY": -3.4166901111602783
+    },
+    "-Nv9DjW4X-JkSaN5cUZV": {
+        "DeathdateTime": "2024-04-10 15:57:25",
+        "endTime": 7.239990711212158,
+        "id": "20240410225725894",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -3.9508519172668457,
+        "positionY": 2.2309482097625732
+    },
+    "-Nv9DmR0RIX1b0FNB-2w": {
+        "DeathdateTime": "2024-04-10 15:57:37",
+        "endTime": 6.575990676879883,
+        "id": "20240410225737926",
+        "killedBy": "Nail",
+        "level": "Level3",
+        "positionX": -3.300914764404297,
+        "positionY": -2.459110975265503
+    },
+    "-Nv9DmgRdA1pxbVvee6f": {
+        "DeathdateTime": "2024-04-10 15:57:39",
+        "endTime": 11.188492774963379,
+        "id": "20240410225739010",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.2149999141693115,
+        "positionY": 1.4951552152633667
+    },
+    "-Nv9DqUXnw2rw220oXKr": {
+        "DeathdateTime": "2024-04-10 15:57:54",
+        "endTime": 13.410990715026855,
+        "id": "20240410225754544",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -0.922379195690155,
+        "positionY": 0.5970062613487244
+    },
+    "-Nv9Dtd9mT_6OmW2BT-1": {
+        "DeathdateTime": "2024-04-10 15:58:07",
+        "endTime": 8.241990089416504,
+        "id": "20240410225807443",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -3.4688000679016113,
+        "positionY": -2.6649420261383057
+    },
+    "-Nv9E1C7MqWgy8cubUBr": {
+        "DeathdateTime": "2024-04-10 15:58:42",
+        "endTime": 32.58599090576172,
+        "id": "20240410225842510",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -0.38010281324386597,
+        "positionY": -1.892898440361023
+    },
+    "-Nv9E7uv2easrEYr5XRI": {
+        "DeathdateTime": "2024-04-10 15:59:09",
+        "endTime": 13.969890594482422,
+        "id": "20240410225909989",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 1.9696513414382935,
+        "positionY": -1.0463385581970215
+    },
+    "-Nv9EBrnawM-ObXyOryh": {
+        "DeathdateTime": "2024-04-10 15:59:26",
+        "endTime": 13.32738971710205,
+        "id": "20240410225926155",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -3.3597002029418945,
+        "positionY": 3.691800117492676
+    },
+    "-Nv9EtE1I0fvlTR6djv9": {
+        "DeathdateTime": "2024-04-10 16:02:27",
+        "endTime": 11.842984199523926,
+        "id": "20240410230227789",
+        "killedBy": "Nail",
+        "level": "Level3",
+        "positionX": -3.802428722381592,
+        "positionY": -2.2421717643737793
+    },
+    "-Nv9FAcXh3osusn012hO": {
+        "DeathdateTime": "2024-04-10 16:03:43",
+        "endTime": 7.990982532501221,
+        "id": "20240410230343206",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -1.409092664718628,
+        "positionY": 2.65667724609375
+    },
+    "-Nv9FJBeOh8n2jTVDGKs": {
+        "DeathdateTime": "2024-04-10 16:04:18",
+        "endTime": 7.452000141143799,
+        "id": "20240410230418354",
+        "killedBy": "Nail",
+        "level": "Level1",
+        "positionX": 5.091862678527832,
+        "positionY": 3.465261459350586
+    },
+    "-Nv9FPoAOmjMOGmGhfdF": {
+        "DeathdateTime": "2024-04-10 16:04:45",
+        "endTime": 16.45098114013672,
+        "id": "20240410230445389",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 0.07280256599187851,
+        "positionY": 0.09367159008979797
+    },
+    "-Nv9FT8vVwbKW5x9qZPp": {
+        "DeathdateTime": "2024-04-10 16:04:59",
+        "endTime": 12.090980529785156,
+        "id": "20240410230459138",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 0.4880882203578949,
+        "positionY": -2.5206520557403564
+    },
+    "-Nv9FVlnBWJAr_l2at0L": {
+        "DeathdateTime": "2024-04-10 16:05:09",
+        "endTime": 9.040980339050293,
+        "id": "20240410230509838",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 1.2774015665054321,
+        "positionY": -0.24243783950805664
+    },
+    "-Nv9FYoeeDYaOJZM69zJ": {
+        "DeathdateTime": "2024-04-10 16:05:22",
+        "endTime": 10.543980598449707,
+        "id": "20240410230522355",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -0.9530342221260071,
+        "positionY": 0.2729717493057251
+    },
+    "-Nv9F_e79pXOiXT7oKzI": {
+        "DeathdateTime": "2024-04-10 16:05:29",
+        "endTime": 5.968999862670898,
+        "id": "20240410230529870",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": -1.8503634929656982,
+        "positionY": 1.75137460231781
+    },
+    "-Nv9FcjEcVA6boeQpP5m": {
+        "DeathdateTime": "2024-04-10 16:05:42",
+        "endTime": 4.268980026245117,
+        "id": "20240410230542488",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -4.0062360763549805,
+        "positionY": 3.2288479804992676
+    },
+    "-Nv9Fe5wXD6eV6rt5XhG": {
+        "DeathdateTime": "2024-04-10 16:05:48",
+        "endTime": 3.9859797954559326,
+        "id": "20240410230548104",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -4.14500093460083,
+        "positionY": 1.1550979614257812
+    },
+    "-Nv9FhVjhdiDNVLBmDWP": {
+        "DeathdateTime": "2024-04-10 16:06:02",
+        "endTime": 12.193979263305664,
+        "id": "20240410230602037",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 0.9898946285247803,
+        "positionY": -0.02880626544356346
+    },
+    "-Nv9FksL4TLTNEnEDcaq": {
+        "DeathdateTime": "2024-04-10 16:06:15",
+        "endTime": 12.320979118347168,
+        "id": "20240410230615838",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.314462661743164,
+        "positionY": 2.9299213886260986
+    },
+    "-Nv9FqSK5k3fHKsdr_3O": {
+        "DeathdateTime": "2024-04-10 16:06:38",
+        "endTime": 20.817977905273438,
+        "id": "20240410230638686",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": 3.4285268783569336,
+        "positionY": -4.036938667297363
+    },
+    "-Nv9FuVE36gasd-u-QQP": {
+        "DeathdateTime": "2024-04-10 16:06:55",
+        "endTime": 15.069999694824219,
+        "id": "20240410230655252",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": 3.4388957023620605,
+        "positionY": -3.10030460357666
+    },
+    "-Nv9FyKPsTt4vBfBKd51": {
+        "DeathdateTime": "2024-04-10 16:07:10",
+        "endTime": 11.054978370666504,
+        "id": "20240410230710820",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.7929505109786987,
+        "positionY": 3.0720372200012207
+    },
+    "-Nv9G0zg-qgOOWi2fT7Y": {
+        "DeathdateTime": "2024-04-10 16:07:25",
+        "endTime": 13.658977508544922,
+        "id": "20240410230725937",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 1.1268912553787231,
+        "positionY": -0.3216733932495117
+    },
+    "-Nv9GHaUW9BvdjjyNltN": {
+        "DeathdateTime": "2024-04-10 16:08:33",
+        "endTime": 3.3509998321533203,
+        "id": "20240410230833894",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 0.6680732369422913,
+        "positionY": 1.1701196432113647
+    },
+    "-Nv9GgfAnJ32wbkQJtTt": {
+        "DeathdateTime": "2024-04-10 16:10:20",
+        "endTime": 3.9571995735168457,
+        "id": "20240410231020646",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.2799999713897705,
+        "positionY": -3.609999895095825
+    },
+    "-Nv9Glf02VvqDoZaM4F4": {
+        "DeathdateTime": "2024-04-10 16:10:41",
+        "endTime": 10.792997360229492,
+        "id": "20240410231041100",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 2.7612464427948,
+        "positionY": 1.018689513206482
+    },
+    "-Nv9Grt4p8LMhJt7Tf7c": {
+        "DeathdateTime": "2024-04-10 16:11:06",
+        "endTime": 16.53700065612793,
+        "id": "20240410231106699",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": 3.4520180225372314,
+        "positionY": -2.7655861377716064
+    },
+    "-Nv9GxGqwk7yvXGvHo0V": {
+        "DeathdateTime": "2024-04-10 16:11:28",
+        "endTime": 19.453996658325195,
+        "id": "20240410231128701",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.8391444683074951,
+        "positionY": -3.0831735134124756
+    },
+    "-Nv9HHYxe59xWqZClqZW": {
+        "DeathdateTime": "2024-04-10 16:12:55",
+        "endTime": 22.230993270874023,
+        "id": "20240410231255886",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -2.477459669113159,
+        "positionY": -3.1202070713043213
+    },
+    "-Nv9HJp7hF4dc_pfqfCP": {
+        "DeathdateTime": "2024-04-10 16:13:05",
+        "endTime": 12.023595809936523,
+        "id": "20240410231305255",
+        "killedBy": "Nail",
+        "level": "Level1",
+        "positionX": 5.078715801239014,
+        "positionY": 3.0426344871520996
+    },
+    "-Nv9HLafYt2s60Yahrav": {
+        "DeathdateTime": "2024-04-10 16:13:12",
+        "endTime": 4.870495796203613,
+        "id": "20240410231312457",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 1.8020603656768799,
+        "positionY": -1.081676959991455
+    },
+    "-Nv9HhdrcQhmHHhO3lBL": {
+        "DeathdateTime": "2024-04-10 16:14:46",
+        "endTime": 14.334393501281738,
+        "id": "20240410231446868",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 2.6561920642852783,
+        "positionY": 0.6095151305198669
+    },
+    "-Nv9HixvX7yr_KHbJQzD": {
+        "DeathdateTime": "2024-04-10 16:14:52",
+        "endTime": 3.083693504333496,
+        "id": "20240410231452317",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -0.3722416162490845,
+        "positionY": -2.477496385574341
+    },
+    "-Nv9HrNY01q57B0yT_N0": {
+        "DeathdateTime": "2024-04-10 16:15:26",
+        "endTime": 14.025392532348633,
+        "id": "20240410231526783",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 1.364174246788025,
+        "positionY": -0.6470921039581299
+    },
+    "-Nv9HtvqTSJaCnwWzBNw": {
+        "DeathdateTime": "2024-04-10 16:15:37",
+        "endTime": 9.083792686462402,
+        "id": "20240410231537234",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.2149983644485474,
+        "positionY": 1.5640947818756104
+    },
+    "-Nv9Hvw852TmcNGQlNCA": {
+        "DeathdateTime": "2024-04-10 16:15:45",
+        "endTime": 5.617292404174805,
+        "id": "20240410231545448",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -3.6175880432128906,
+        "positionY": 2.342421770095825
+    },
+    "-Nv9Hxs2nKz6LimeXR9d": {
+        "DeathdateTime": "2024-04-10 16:15:53",
+        "endTime": 6.80939245223999,
+        "id": "20240410231553380",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 0.3114943504333496,
+        "positionY": -0.1667885184288025
+    },
+    "-Nv9I53X4mIdVohSsh_U": {
+        "DeathdateTime": "2024-04-10 16:16:26",
+        "endTime": 31.83329200744629,
+        "id": "20240410231626946",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 0.5672623515129089,
+        "positionY": 0.3209909498691559
+    },
+    "-Nv9KHzfonGL7J-223ky": {
+        "DeathdateTime": "2024-04-10 16:26:04",
+        "endTime": 8.235990524291992,
+        "id": "20240410232604095",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 1.095271110534668,
+        "positionY": -1.7197058200836182
+    },
+    "-Nv9KTMm4yZClOP9Z18m": {
+        "DeathdateTime": "2024-04-10 16:26:50",
+        "endTime": 14.092988967895508,
+        "id": "20240410232650762",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 3.559110641479492,
+        "positionY": -0.2724294364452362
+    },
+    "-Nv9KfyVUHflBt4V0RLq": {
+        "DeathdateTime": "2024-04-10 16:27:46",
+        "endTime": 16.932987213134766,
+        "id": "20240410232746429",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 1.8583062887191772,
+        "positionY": -1.0700770616531372
+    },
+    "-Nv9Ki1q6As3nOWge0cf": {
+        "DeathdateTime": "2024-04-10 16:27:54",
+        "endTime": 6.3369879722595215,
+        "id": "20240410232754962",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -0.9411233067512512,
+        "positionY": -2.8944482803344727
+    },
+    "-Nv9KuvClESL-_a9kx8y": {
+        "DeathdateTime": "2024-04-10 16:28:47",
+        "endTime": 13.889986991882324,
+        "id": "20240410232847727",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 0.7037939429283142,
+        "positionY": -1.7781301736831665
+    },
+    "-Nv9KybPqyOZbr2HV7hC": {
+        "DeathdateTime": "2024-04-10 16:29:02",
+        "endTime": 7.276986598968506,
+        "id": "20240410232902845",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -0.011638525873422623,
+        "positionY": -3.4571783542633057
+    },
+    "-Nv9LVKbqRkPjSNRCqgB": {
+        "DeathdateTime": "2024-04-10 16:31:20",
+        "endTime": 10.323983192443848,
+        "id": "20240410233120844",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -2.0870628356933594,
+        "positionY": -3.50254225730896
+    },
+    "-Nv9La25GYow0kU_ul_i": {
+        "DeathdateTime": "2024-04-10 16:31:44",
+        "endTime": 12.423982620239258,
+        "id": "20240410233144360",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -0.12477239221334457,
+        "positionY": -3.2467501163482666
+    },
+    "-Nv9Lty4y9g7IWjnf_3B": {
+        "DeathdateTime": "2024-04-10 16:33:05",
+        "endTime": 56.66197967529297,
+        "id": "20240410233305894",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 1.007431149482727,
+        "positionY": 0.7293575406074524
+    },
+    "-Nv9OvEZqnSKhUivWTtw": {
+        "DeathdateTime": "2024-04-10 16:46:17",
+        "endTime": 7.975643634796143,
+        "id": "20240410234617448",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 2.907008409500122,
+        "positionY": 2.74586820602417
+    },
+    "-Nv9P17i4Z6KS1stMY6g": {
+        "DeathdateTime": "2024-04-10 16:46:45",
+        "endTime": 11.489643096923828,
+        "id": "20240410234645848",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 0.944439172744751,
+        "positionY": 0.46896782517433167
+    },
+    "-Nv9P4Li2MvGfvrxaDcQ": {
+        "DeathdateTime": "2024-04-10 16:46:59",
+        "endTime": 9.836000442504883,
+        "id": "20240410234659028",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": 0.25440672039985657,
+        "positionY": -1.7878140211105347
+    },
+    "-Nv9QST0aoGBbrikByji": {
+        "DeathdateTime": "2024-04-10 16:52:59",
+        "endTime": 26.64286231994629,
+        "id": "20240410235259886",
+        "killedBy": "Ghost",
+        "level": "Tutorial",
+        "positionX": -0.9185241460800171,
+        "positionY": 0.8301564455032349
+    },
+    "-Nv9QqVhNPCa0ecKLbCq": {
+        "DeathdateTime": "2024-04-10 16:54:42",
+        "endTime": 100.69506072998047,
+        "id": "20240410235442447",
+        "killedBy": "Ghost",
+        "level": "Tutorial",
+        "positionX": -1.4999929666519165,
+        "positionY": -3.488950729370117
+    },
+    "-Nv9R7IUAbrX3T7zbBl8": {
+        "DeathdateTime": "2024-04-10 16:55:55",
+        "endTime": 27.816057205200195,
+        "id": "20240410235555395",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -3.7274010181427,
+        "positionY": 1.8497310876846313
+    },
+    "-Nv9R9J60vnr8kVbylwF": {
+        "DeathdateTime": "2024-04-10 16:56:03",
+        "endTime": 5.871957778930664,
+        "id": "20240410235603628",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.875225305557251,
+        "positionY": -2.044145107269287
+    },
+    "-Nv9RDI16EPSSOBwtedy": {
+        "DeathdateTime": "2024-04-10 16:56:19",
+        "endTime": 14.286757469177246,
+        "id": "20240410235619944",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 0.8258512616157532,
+        "positionY": -1.8494572639465332
+    },
+    "-Nv9RMfWp3_VewVTEptk": {
+        "DeathdateTime": "2024-04-10 16:56:58",
+        "endTime": 26.025856018066406,
+        "id": "20240410235658376",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.2149999141693115,
+        "positionY": 1.6218034029006958
+    },
+    "-Nv9RQtoFyXgp3Joi_jL": {
+        "DeathdateTime": "2024-04-10 16:57:15",
+        "endTime": 15.692655563354492,
+        "id": "20240410235715672",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 1.1709333658218384,
+        "positionY": -0.21399787068367004
+    },
+    "-Nv9RW6rcWFrwA9PuNL-": {
+        "DeathdateTime": "2024-04-10 16:57:37",
+        "endTime": 5.895355701446533,
+        "id": "20240410235737056",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -3.3597002029418945,
+        "positionY": 3.691800117492676
+    },
+    "-Nv9RY8OHzTT7WICtWhA": {
+        "DeathdateTime": "2024-04-10 16:57:45",
+        "endTime": 6.685555458068848,
+        "id": "20240410235745341",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 1.0192763805389404,
+        "positionY": -1.0314465761184692
+    },
+    "-Nv9RaxoKX3fyLzGUMkj": {
+        "DeathdateTime": "2024-04-10 16:58:00",
+        "endTime": 3.3561549186706543,
+        "id": "20240410235800989",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -1.6697931289672852,
+        "positionY": -3.398930072784424
+    },
+    "-Nv9RewDeURjeo0wWUXa": {
+        "DeathdateTime": "2024-04-10 16:58:17",
+        "endTime": 14.64885425567627,
+        "id": "20240410235817269",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 1.0621287822723389,
+        "positionY": 1.1025948524475098
+    },
+    "-Nv9U6k6voNf-tuj9y3h": {
+        "DeathdateTime": "2024-04-10 17:08:59",
+        "endTime": 5.400000095367432,
+        "id": "20240411000859376",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -1.7494678497314453,
+        "positionY": 2.4585235118865967
+    },
+    "-Nv9U9E-joYy0acwFnXm": {
+        "DeathdateTime": "2024-04-10 17:09:09",
+        "endTime": 5.242767810821533,
+        "id": "20240411000909702",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -1.234808325767517,
+        "positionY": 2.214021921157837
+    },
+    "-Nv9WjPdYCEN2B-96tRL": {
+        "DeathdateTime": "2024-04-10 17:20:26",
+        "endTime": 4.048192024230957,
+        "id": "20240411002026166",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.2799999713897705,
+        "positionY": -2.741727828979492
+    },
+    "-Nv9WkdiiF1uKMEKHW37": {
+        "DeathdateTime": "2024-04-10 17:20:31",
+        "endTime": 3.818335771560669,
+        "id": "20240411002031407",
+        "killedBy": "Nail",
+        "level": "Level1",
+        "positionX": 1.4922356605529785,
+        "positionY": -1.5377116203308105
+    },
+    "-Nv9XrhzxqQEuvqfQFLl": {
+        "DeathdateTime": "2024-04-10 17:25:22",
+        "endTime": 4.024003982543945,
+        "id": "20240411002522378",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -1.1194545030593872,
+        "positionY": -2.452786922454834
+    },
+    "-Nv9Y1ekCKH7V4-LZ9kI": {
+        "DeathdateTime": "2024-04-10 17:26:07",
+        "endTime": 11.089677810668945,
+        "id": "20240411002607336",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": -0.07634347677230835,
+        "positionY": -2.0602850914001465
+    },
+    "-Nv9Y4hHXdZ48d7YoQBU": {
+        "DeathdateTime": "2024-04-10 17:26:19",
+        "endTime": 10.301082611083984,
+        "id": "20240411002619786",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 0.96619713306427,
+        "positionY": -3.1686878204345703
+    },
+    "-Nv9YAx_S_MRkblAy1yd": {
+        "DeathdateTime": "2024-04-10 17:26:45",
+        "endTime": 4.538244247436523,
+        "id": "20240411002645403",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 0.7287883162498474,
+        "positionY": -1.2287390232086182
+    },
+    "-Nv9YLBm_5NnXfQawSWF": {
+        "DeathdateTime": "2024-04-10 17:27:27",
+        "endTime": 5.619999885559082,
+        "id": "20240411002727222",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 1.2145355939865112,
+        "positionY": -0.9187004566192627
+    },
+    "-Nv9YQ01nEmrNzHQIw2k": {
+        "DeathdateTime": "2024-04-10 17:27:47",
+        "endTime": 7.339999675750732,
+        "id": "20240411002747051",
+        "killedBy": "Nail",
+        "level": "Level2",
+        "positionX": -1.4901390075683594,
+        "positionY": 1.240746021270752
+    },
+    "-Nv9YXUFgvx1E2d1cUmT": {
+        "DeathdateTime": "2024-04-10 17:28:17",
+        "endTime": 6.231199741363525,
+        "id": "20240411002817552",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -2.4796833992004395,
+        "positionY": -0.7390269637107849
+    },
+    "-Nv9YZCemnF36vzCBxuh": {
+        "DeathdateTime": "2024-04-10 17:28:24",
+        "endTime": 5.563002586364746,
+        "id": "20240411002824734",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -2.9381494522094727,
+        "positionY": -0.9543421864509583
+    },
+    "-Nv9ahg1LAwEwp71IHdP": {
+        "DeathdateTime": "2024-04-10 17:42:09",
+        "endTime": 7.079999923706055,
+        "id": "20240411004209873",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.214794635772705,
+        "positionY": 3.272372007369995
+    },
+    "-Nv9c1iisD_H3pCAI4mC": {
+        "DeathdateTime": "2024-04-10 17:47:58",
+        "endTime": 16.384998321533203,
+        "id": "20240411004758092",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -1.3005764484405518,
+        "positionY": 2.720399856567383
+    },
+    "-Nv9cDYdMp4NTt3ZsyuF": {
+        "DeathdateTime": "2024-04-10 17:48:46",
+        "endTime": 7.049099922180176,
+        "id": "20240411004846665",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -0.09188784658908844,
+        "positionY": -1.1096878051757812
+    },
+    "-Nv9cHAj3nYAy0fuIJ44": {
+        "DeathdateTime": "2024-04-10 17:49:01",
+        "endTime": 11.167299270629883,
+        "id": "20240411004901513",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": 1.3018412590026855,
+        "positionY": 2.9781763553619385
+    },
+    "-Nv9cJyQbN_LQmLOZ-9F": {
+        "DeathdateTime": "2024-04-10 17:49:12",
+        "endTime": 8.830799102783203,
+        "id": "20240411004912946",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.2799999713897705,
+        "positionY": -4.175241947174072
+    },
+    "-Nv9cUjgPl9OSNkwyTNQ": {
+        "DeathdateTime": "2024-04-10 17:49:57",
+        "endTime": 77.34049987792969,
+        "id": "20240411004957066",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.2799999713897705,
+        "positionY": -2.637979030609131
+    },
+    "-Nv9caCiIKbk9vnJIGEL": {
+        "DeathdateTime": "2024-04-10 17:50:23",
+        "endTime": 8.131998062133789,
+        "id": "20240411005023557",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 1.4285858869552612,
+        "positionY": -2.5983848571777344
+    },
+    "-Nv9cbjNO-LJMVoDy9Fy": {
+        "DeathdateTime": "2024-04-10 17:50:29",
+        "endTime": 4.744897365570068,
+        "id": "20240411005029808",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -1.0450217723846436,
+        "positionY": -3.385009765625
+    },
+    "-Nv9cbwqHOJNrmiQzHpd": {
+        "DeathdateTime": "2024-04-10 17:50:30",
+        "endTime": 9.720396041870117,
+        "id": "20240411005030733",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -3.3597002029418945,
+        "positionY": 3.691800117492676
+    },
+    "-Nv9coA2SAxVqNrFF7ib": {
+        "DeathdateTime": "2024-04-10 17:51:20",
+        "endTime": 7.266194820404053,
+        "id": "20240411005120796",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -3.700000047683716,
+        "positionY": -3.7200000286102295
+    },
+    "-Nv9cqNyg-ib5XEzozJs": {
+        "DeathdateTime": "2024-04-10 17:51:29",
+        "endTime": 14.772195816040039,
+        "id": "20240411005129737",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -2.4956982135772705,
+        "positionY": -2.050485849380493
+    },
+    "-Nv9ctzvpqP_edytib_A": {
+        "DeathdateTime": "2024-04-10 17:51:44",
+        "endTime": 20.894794464111328,
+        "id": "20240411005144663",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -1.8391473293304443,
+        "positionY": -1.374999761581421
+    },
+    "-Nv9cvJUVH1iZXnzrAIO": {
+        "DeathdateTime": "2024-04-10 17:51:49",
+        "endTime": 18.3373966217041,
+        "id": "20240411005149986",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -1.603783130645752,
+        "positionY": -0.8594263792037964
+    },
+    "-Nv9cx7Up4dN1X2gJUQA": {
+        "DeathdateTime": "2024-04-10 17:51:57",
+        "endTime": 10.481194496154785,
+        "id": "20240411005157495",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 2.776188373565674,
+        "positionY": -3.0653908252716064
+    },
+    "-Nv9d36c2w0rbapVY0aS": {
+        "DeathdateTime": "2024-04-10 17:52:26",
+        "endTime": 9.895393371582031,
+        "id": "20240411005226077",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 0.9652060270309448,
+        "positionY": -1.9608666896820068
+    },
+    "-NvGG0WP_5BS4k1_XHXT": {
+        "DeathdateTime": "2024-04-12 00:44:44",
+        "endTime": 6.921599864959717,
+        "id": "20240412074444543",
+        "killedBy": "Nail",
+        "level": "Level1",
+        "positionX": -4.065465927124023,
+        "positionY": -0.4489712417125702
+    },
+    "-NvGG6IzaqQyEWb8CBSF": {
+        "DeathdateTime": "2024-04-12 15:44:58",
+        "endTime": 32.21799850463867,
+        "id": "20240412074458913",
+        "killedBy": "Ghost",
+        "level": "Tutorial",
+        "positionX": -0.2915097177028656,
+        "positionY": -0.465200811624527
+    },
+    "-NvGG9qr2uzrMwyzghBv": {
+        "DeathdateTime": "2024-04-12 15:45:21",
+        "endTime": 19.5458984375,
+        "id": "20240412074521864",
+        "killedBy": "Ghost",
+        "level": "Tutorial",
+        "positionX": -0.5804749727249146,
+        "positionY": -0.06857416778802872
+    },
+    "-NvGGMSgt-_gG54p7v9e": {
+        "DeathdateTime": "2024-04-12 15:46:13",
+        "endTime": 5.869697570800781,
+        "id": "20240412074613516",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.2799999713897705,
+        "positionY": -2.999727964401245
+    },
+    "-NvGN9KH1SoQ5zJTkrCA": {
+        "DeathdateTime": "2024-04-12 16:15:54",
+        "endTime": 6.959699630737305,
+        "id": "20240412081554646",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.2799999713897705,
+        "positionY": -2.2558562755584717
+    },
+    "-NvGNAmPbW2l3sIhxVUN": {
+        "DeathdateTime": "2024-04-12 16:16:01",
+        "endTime": 4.100099563598633,
+        "id": "20240412081601215",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.2799999713897705,
+        "positionY": -4.1955976486206055
+    },
+    "-NvGNEIoW6ok8026Ad3-": {
+        "DeathdateTime": "2024-04-12 16:16:15",
+        "endTime": 12.984099388122559,
+        "id": "20240412081615661",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -0.690587043762207,
+        "positionY": -2.6003365516662598
+    },
+    "-NvGNH72IMk0xl-WNj2C": {
+        "DeathdateTime": "2024-04-12 16:16:27",
+        "endTime": 9.5920991897583,
+        "id": "20240412081627183",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -0.24309827387332916,
+        "positionY": -2.554901361465454
+    },
+    "-NvGNIZ9bsiRQefD4-pm": {
+        "DeathdateTime": "2024-04-12 16:16:33",
+        "endTime": 4.297298908233643,
+        "id": "20240412081633109",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.2799999713897705,
+        "positionY": -2.531794309616089
+    },
+    "-NvIQzaufHdTriCwL3ZI": {
+        "DeathdateTime": "2024-04-12 10:51:54",
+        "endTime": 7.173898696899414,
+        "id": "20240412175154847",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": -3.3597002029418945,
+        "positionY": 3.691800117492676
+    },
+    "-NvIRAKpTwDki5mVXazV": {
+        "DeathdateTime": "2024-04-12 10:52:43",
+        "endTime": 24.518863677978516,
+        "id": "20240412175243144",
+        "killedBy": "Ghost",
+        "level": "Tutorial",
+        "positionX": -2.336405038833618,
+        "positionY": -2.5749711990356445
+    },
+    "-NvIRD0do4EeaJXpI76b": {
+        "DeathdateTime": "2024-04-12 10:52:54",
+        "endTime": 4.278563976287842,
+        "id": "20240412175254110",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": -3.700000047683716,
+        "positionY": -3.7200000286102295
+    },
+    "-NvIRNXW-RIdhsRvN2qB": {
+        "DeathdateTime": "2024-04-12 10:53:37",
+        "endTime": 10.190699577331543,
+        "id": "20240412175337211",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -1.3016998767852783,
+        "positionY": 1.7146012783050537
+    },
+    "-NvIRf_bNQNhYPeUzBvH": {
+        "DeathdateTime": "2024-04-12 10:54:54",
+        "endTime": 17.36709976196289,
+        "id": "20240412175454979",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.2799999713897705,
+        "positionY": -3.609999895095825
+    },
+    "-NvIRxkZVHb8Wf1cgYM_": {
+        "DeathdateTime": "2024-04-12 10:56:09",
+        "endTime": 10.56089973449707,
+        "id": "20240412175609661",
+        "killedBy": "Ghost",
+        "level": "Level2",
+        "positionX": 1.2983139753341675,
+        "positionY": -0.6599594354629517
+    },
+    "-NvIS0i94VAJA9Wdqgt0": {
+        "DeathdateTime": "2024-04-12 10:56:25",
+        "endTime": 11.540199279785156,
+        "id": "20240412175625894",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 0.7839033007621765,
+        "positionY": -2.478309154510498
+    },
+    "-NvISNlTGo0MXXaPYE22": {
+        "DeathdateTime": "2024-04-12 10:58:00",
+        "endTime": 21.174598693847656,
+        "id": "20240412175800243",
+        "killedBy": "Ghost",
+        "level": "Level3",
+        "positionX": 1.9259649515151978,
+        "positionY": 0.6377853155136108
+    },
+    "-NvISuytC4rHmsSx8v4A": {
+        "DeathdateTime": "2024-04-12 11:00:20",
+        "endTime": 16.520898818969727,
+        "id": "20240412180020078",
+        "killedBy": "Ghost",
+        "level": "Level1",
+        "positionX": -2.2799999713897705,
+        "positionY": -3.609999895095825
+    }
+}
