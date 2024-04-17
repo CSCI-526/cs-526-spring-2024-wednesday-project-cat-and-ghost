@@ -1,41 +1,4 @@
 import matplotlib.pyplot as plt
-def generate_level_graph():
-    # Data for the levels
-    levels = ['Level 1', 'Level 2', 'Level 3']
-    wins = [50, 26, 29]
-    deaths = [86, 113, 59]
-    win_percentages = [0.3676, 0.1871, 0.3295]
-
-    # Create the bar chart
-    fig, ax = plt.subplots()
-    width = 0.35  # the width of the bars
-
-    # Bar for wins using a less saturated green
-    win_bars = ax.bar(levels, wins, width, label='Wins', color='#b0e57c')  # A pale green color
-
-    # Bar for deaths using a less saturated pink
-    death_bars = ax.bar(levels, deaths, width, bottom=wins, label='Deaths', color='#f4c2c2')  # A pale pink color
-
-    # Adding win percentages on the bars
-    for i, (win, death) in enumerate(zip(wins, deaths)):
-        total = win + death
-        percentage = f'{win_percentages[i] * 100:.1f}%'
-        ax.text(i, total + 3, percentage, ha='center', color='purple')
-
-    # Set specific labels for the x-axis to ensure "Tutorial" does not show
-    ax.set_xticks([0, 1, 2])  # Define ticks for each level
-    ax.set_xticklabels(['Level 1', 'Level 2', 'Level 3'])
-
-    # Labels and legends
-    ax.set_xlabel('Levels')
-    ax.set_ylabel('Counts')
-    ax.set_title('Win and Death Counts by Level with Win Percentage')
-    ax.legend()
-
-    # Show the plot
-    plt.show()
-
-import matplotlib.pyplot as plt
 
 def generate_pie_chart():
     # Data for the pie charts
@@ -79,8 +42,48 @@ def generate_pie_chart():
     for level in ['Level1', 'Level2', 'Level3']:
         plot_pie_chart(data_zero, data_greater_zero, level)
 
+# change or not change color count pie chart
+def levels_pie_chart():
+    # Data for the pie charts
+    data_zero = {
+        'Level1': {'zero': 20, 'greater_zero': 65},
+        'Level2': {'zero': 22, 'greater_zero': 64},
+        'Level3': {'zero': 8, 'greater_zero': 46}
+    }
+
+    data_greater_zero = {
+        'Level1': {'zero': 41, 'greater_zero': 9},
+        'Level2': {'zero': 100, 'greater_zero': 26},
+        'Level3': {'zero': 51, 'greater_zero': 2}
+    }
+
+    # Define colors for the pie charts
+    colors = ['#ff9999', '#66b3ff']
+
+    # Function to plot a pie chart for a specific level
+    def plot_pie_chart(data_zero, data_greater_zero, level, ax):
+        # Plot zero and greater_zero occurrences
+        ax.pie(data_zero[level].values(), labels=data_zero[level].keys(), autopct='%1.1f%%', startangle=90, colors=colors)
+        ax.set_title(f'Level: {level} - Zero Occurrences')
+
+        ax2 = ax.twinx()  # instantiate a second axes that shares the same x-axis
+        ax2.pie(data_greater_zero[level].values(), labels=data_greater_zero[level].keys(), autopct='%1.1f%%', startangle=90, colors=colors)
+        ax2.set_title(f'Level: {level} - Greater Zero Occurrences')
+
+    # Plot each level separately
+    fig, axs = plt.subplots(1, 3, figsize=(18, 6))
+
+    for i, level in enumerate(['Level1', 'Level2', 'Level3']):
+        plot_pie_chart(data_zero, data_greater_zero, level, axs[i])
+
+    # Adjust layout
+    plt.tight_layout()
+
+    # Show the plot
+    plt.show()
+
 if __name__ == '__main__':
-    generate_pie_chart()
+    levels_pie_chart()
 
 
 

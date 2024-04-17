@@ -2,7 +2,7 @@ import json
 from datetime import datetime
 
 # Load the original JSON data
-with open('Users_data_April12.json', 'r') as file:
+with open('../Users_data_April12.json', 'r') as file:
     data = json.load(file)
 
 # Filter out deaths without a date and before April 3rd, 2024

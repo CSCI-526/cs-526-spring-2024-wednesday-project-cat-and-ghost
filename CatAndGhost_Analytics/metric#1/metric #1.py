@@ -10,7 +10,7 @@ def is_valid_date_and_after(date_str, comparison_date):
         return False
 
 # Load the JSON data
-with open('Users_data_April12.json', 'r') as file:
+with open('../Users_data_April12.json', 'r') as file:
     data = json.load(file)
 
 # Initialize counters

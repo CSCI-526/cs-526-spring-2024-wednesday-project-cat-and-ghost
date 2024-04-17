@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the JSON data
-with open('Users_data_April12.json', 'r') as file:
+with open('../Users_data_April12.json', 'r') as file:
     data = json.load(file)
 
 # Initialize a dictionary to store the count of each checkpoint for Level3

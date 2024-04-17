@@ -2,7 +2,7 @@ import json
 from datetime import datetime
 
 def load_data():
-    with open('Users_data_April12.json', 'r') as file:
+    with open('../Users_data_April12.json', 'r') as file:
         return json.load(file)
 
 def is_valid_date(date_str):

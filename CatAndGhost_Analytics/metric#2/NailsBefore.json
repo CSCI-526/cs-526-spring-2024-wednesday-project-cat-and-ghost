@@ -1,0 +1,1156 @@
+{
+  "deaths": {
+    "-NsF1DxBlAA7ChJhNoaB": {
+      "endTime": 5.638581275939941,
+      "id": "20240305191324782",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": 1.6650002002716064,
+      "positionY": -2.6654715538024902
+    },
+    "-NsF1PM7vtukpfSHA1Jt": {
+      "endTime": 3.1298389434814453,
+      "id": "20240305191411467",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": -5.1656599044799805,
+      "positionY": -0.46427178382873535
+    },
+    "-NsF3YxT1BEPjpBAGvAK": {
+      "endTime": 14.25999927520752,
+      "id": "20240305192334978",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -1.4841043949127197,
+      "positionY": -0.12663626670837402
+    },
+    "-NsF3mRY3yTN0lJSAUnP": {
+      "endTime": 12.080540657043457,
+      "id": "20240305192434223",
+      "killedBy": "Ghost",
+      "level": "Level3",
+      "positionX": -0.7542551755905151,
+      "positionY": 2.1132898330688477
+    },
+    "-NsFv3SQTxqQPR0qnxWu": {
+      "endTime": 2.4583935737609863,
+      "id": "20240305232143765",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": -3.897146701812744,
+      "positionY": -0.46316978335380554
+    },
+    "-NsFv9XenRjjthuK36AT": {
+      "endTime": 2.454113245010376,
+      "id": "20240305232208856",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": 0.07349980622529984,
+      "positionY": -2.492556095123291
+    },
+    "-NsFvGOZ0PtcW3CEuAbb": {
+      "endTime": 5.79145622253418,
+      "id": "20240305232236826",
+      "killedBy": "Nail",
+      "level": "Level3",
+      "positionX": -6.0111870765686035,
+      "positionY": -2.14143443107605
+    },
+    "-NsG8wgW3I_KxsKhDots": {
+      "endTime": 4.017899513244629,
+      "id": "20240306002644069",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -3.179123640060425,
+      "positionY": 3.2272982597351074
+    },
+    "-NsG9hsTVcsdWfMF5SIe": {
+      "endTime": 6.403600215911865,
+      "id": "20240306003005710",
+      "killedBy": "Nail",
+      "level": "Level2",
+      "positionX": -2.3516712188720703,
+      "positionY": 1.7869750261306763
+    },
+    "-NsG9lgZe_ZcZYKt0ujo": {
+      "endTime": 9.323363304138184,
+      "id": "20240306003021394",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -1.5332154035568237,
+      "positionY": -0.12836360931396484
+    },
+    "-NsGBjFIIqZ-G01W9MNJ": {
+      "endTime": 4.863099575042725,
+      "id": "20240306003855498",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -2.3500003814697266,
+      "positionY": -3.7200000286102295
+    },
+    "-NsHWsZlEL_qL9QZhkqp": {
+      "endTime": 7.620699882507324,
+      "id": "20240306065055830",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": -4.354145050048828,
+      "positionY": -0.460806280374527
+    },
+    "-NsHWyRr4kfY3y_TS0E5": {
+      "endTime": 6.862799167633057,
+      "id": "20240306065120063",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -1.941909909248352,
+      "positionY": 2.3954031467437744
+    },
+    "-NsHX5x0Ft6X5PnXph15": {
+      "endTime": 6.021098613739014,
+      "id": "20240306065154896",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -4.002621173858643,
+      "positionY": -1.578343391418457
+    },
+    "-NsHX71aJ8qZrTqcHTHC": {
+      "endTime": 2.6205999851226807,
+      "id": "20240306065159382",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": -3.949510097503662,
+      "positionY": -0.4417375326156616
+    },
+    "-NsHXAU-g0aU5VForJ8-": {
+      "endTime": 12.170900344848633,
+      "id": "20240306065213314",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": 0.4248359501361847,
+      "positionY": -1.1003315448760986
+    },
+    "-NsHXDTdW-fRD_t5OYpo": {
+      "endTime": 3.6036999225616455,
+      "id": "20240306065225747",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": -4.284549236297607,
+      "positionY": -0.44499239325523376
+    },
+    "-NsHXFTnFwxYWqPj1J-z": {
+      "endTime": 6.188997745513916,
+      "id": "20240306065233881",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": 0.82112717628479,
+      "positionY": -0.574015736579895
+    },
+    "-NsHXHmVEuSJKn-UxGn7": {
+      "endTime": 2.5871999263763428,
+      "id": "20240306065243380",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": -4.400649547576904,
+      "positionY": -0.4555898904800415
+    },
+    "-NsHXJ-WDCvGfwR0UV3n": {
+      "endTime": 3.5213000774383545,
+      "id": "20240306065248514",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": -4.568490505218506,
+      "positionY": -0.43353286385536194
+    },
+    "-NsHXLAJsob2FXWGfC6_": {
+      "endTime": 7.306097030639648,
+      "id": "20240306065257197",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": 0.5938801765441895,
+      "positionY": -0.909249484539032
+    },
+    "-NsHXSm22wflLGyaWl6m": {
+      "endTime": 14.789362907409668,
+      "id": "20240306065328430",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -3.587372064590454,
+      "positionY": -2.7865376472473145
+    },
+    "-NsHXWV993wuuL83D9Wm": {
+      "endTime": 7.3263630867004395,
+      "id": "20240306065343670",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -2.9545650482177734,
+      "positionY": -1.3749998807907104
+    },
+    "-NsHYFPBCYz3aDWVcKS3": {
+      "endTime": 3.93999981880188,
+      "id": "20240306065655655",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -3.359999895095825,
+      "positionY": -3.609999895095825
+    },
+    "-NsHYyxc6teaA4Xt8nGT": {
+      "endTime": 2.5370237827301025,
+      "id": "20240306070006452",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": -4.608562469482422,
+      "positionY": -0.46281203627586365
+    },
+    "-NsHYzzqbPelAfKRWAXb": {
+      "endTime": 2.7000839710235596,
+      "id": "20240306070010795",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": 0.5091028809547424,
+      "positionY": -2.616292953491211
+    },
+    "-NsHZ0pSYivJmRGjIzEi": {
+      "endTime": 6.034121036529541,
+      "id": "20240306070018350",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": 0.5312580466270447,
+      "positionY": -2.496922016143799
+    },
+    "-NsHazNk-0Z1yo1tfsir": {
+      "endTime": 12.33938980102539,
+      "id": "20240306071314475",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -2.9147140979766846,
+      "positionY": 2.746365547180176
+    },
+    "-NsHhEhBt4rajEeFfqT2": {
+      "endTime": 34.977108001708984,
+      "id": "20240306074034277",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": 4.0882978439331055,
+      "positionY": 2.5375020503997803
+    },
+    "-NsHhHiZoRbAOW2hsSep": {
+      "endTime": 10.564643859863281,
+      "id": "20240306074046811",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -2.351944923400879,
+      "positionY": -3.1115212440490723
+    },
+    "-NsHhJPCEJNB47ecH8_K": {
+      "endTime": 5.0883941650390625,
+      "id": "20240306074053746",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": -4.9064412117004395,
+      "positionY": -0.36424732208251953
+    },
+    "-NsHhLZLFwJIzExIJzI9": {
+      "endTime": 7.070686340332031,
+      "id": "20240306074102503",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -3.359999895095825,
+      "positionY": -3.041677474975586
+    },
+    "-NsHhQKNwpa9c7y50sOe": {
+      "endTime": 18.174877166748047,
+      "id": "20240306074122110",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -2.3270256519317627,
+      "positionY": -3.6769604682922363
+    },
+    "-NsHhTH23zUN9Oc4U_J2": {
+      "endTime": 10.709247589111328,
+      "id": "20240306074134184",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": 4.075292110443115,
+      "positionY": 2.537475824356079
+    },
+    "-NsHhVniPKJCQ7c-8vKg": {
+      "endTime": 8.689139366149902,
+      "id": "20240306074144447",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -3.359999895095825,
+      "positionY": -0.23842757940292358
+    },
+    "-NsHhXWsQ1D27GniTC5v": {
+      "endTime": 5.818724632263184,
+      "id": "20240306074151582",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": 0.4596743881702423,
+      "positionY": -2.6205668449401855
+    },
+    "-NsHh_vS6K3xG_bAa9Uy": {
+      "endTime": 12.269235610961914,
+      "id": "20240306074205502",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": 0.4073032736778259,
+      "positionY": 2.719428300857544
+    },
+    "-NsHhd1B8vE6KDGDuzkA": {
+      "endTime": 11.327136039733887,
+      "id": "20240306074218228",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": 0.528206467628479,
+      "positionY": 1.4311574697494507
+    },
+    "-NsHhf6sG8BGKPfsnWJd": {
+      "endTime": 7.336007118225098,
+      "id": "20240306074226782",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": 4.004995822906494,
+      "positionY": 2.512760877609253
+    },
+    "-NsHktI6KvrxXlFHc5hr": {
+      "endTime": 6.9998579025268555,
+      "id": "20240306075631022",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": 0.49645787477493286,
+      "positionY": -0.27127453684806824
+    },
+    "-NsHl54ltKS26JVF7TXM": {
+      "endTime": 15.379183769226074,
+      "id": "20240306075723642",
+      "killedBy": "Nail",
+      "level": "Level3",
+      "positionX": 5.086673736572266,
+      "positionY": 1.8743274211883545
+    },
+    "-NsKE1T0L80hBOdWn4QD": {
+      "endTime": 6.154599189758301,
+      "id": "20240306192726933",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -3.359999895095825,
+      "positionY": -3.609999895095825
+    },
+    "-NsKE8waKNKqIIhmDOPP": {
+      "endTime": 11.619999885559082,
+      "id": "20240306192758099",
+      "killedBy": "Nail",
+      "level": "Level2",
+      "positionX": 0.23195262253284454,
+      "positionY": -1.9338788986206055
+    },
+    "-NsKEC3kGTCIqan42niI": {
+      "endTime": 9.720600128173828,
+      "id": "20240306192810966",
+      "killedBy": "Nail",
+      "level": "Level3",
+      "positionX": -6.162839889526367,
+      "positionY": -2.5997133255004883
+    },
+    "-NsKENPFXLUtm-XFLtvf": {
+      "endTime": 4.3531999588012695,
+      "id": "20240306192857316",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": -5.14504337310791,
+      "positionY": -0.440072238445282
+    },
+    "-NsLAd4lBtDYFdALVXNT": {
+      "endTime": 11.773399353027344,
+      "id": "20240306235214123",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": 0.48072633147239685,
+      "positionY": -2.621086359024048
+    },
+    "-NsLAkXs8-toU-xK4h6_": {
+      "endTime": 12.786399841308594,
+      "id": "20240306235244790",
+      "killedBy": "Nail",
+      "level": "Level2",
+      "positionX": -0.5192105174064636,
+      "positionY": -3.040238618850708
+    },
+    "-NsLAkYHD001vzN_y8lA": {
+      "endTime": 12.786399841308594,
+      "id": "20240306235244792",
+      "killedBy": "Nail",
+      "level": "Level2",
+      "positionX": -0.5192105174064636,
+      "positionY": -3.040238618850708
+    },
+    "-NsLR0pMXZRTUjkyduvY": {
+      "endTime": 4.354000091552734,
+      "id": "20240307010349837",
+      "killedBy": "Nail",
+      "level": "Level3",
+      "positionX": -5.16747522354126,
+      "positionY": -2.1670331954956055
+    },
+    "-NsLTb9jhdp7QAAd8fdU": {
+      "endTime": 4.227899551391602,
+      "id": "20240307011505706",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -3.359999895095825,
+      "positionY": -3.609999895095825
+    },
+    "-NsLTcShP8v3Ayw-vt_t": {
+      "endTime": 4.138499736785889,
+      "id": "20240307011511220",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -3.359999895095825,
+      "positionY": -3.609999895095825
+    },
+    "-NsLTfYpGoD6kcD8JBwr": {
+      "endTime": 11.485798835754395,
+      "id": "20240307011523897",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": 2.8270933628082275,
+      "positionY": 2.4525296688079834
+    },
+    "-NsLTgo43CledWBWmHu2": {
+      "endTime": 3.655999183654785,
+      "id": "20240307011529037",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -1.1377347707748413,
+      "positionY": -2.660792827606201
+    },
+    "-NsLTkouMpFmVYwJKHSP": {
+      "endTime": 7.97299861907959,
+      "id": "20240307011545475",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -1.2147384881973267,
+      "positionY": 3.48168683052063
+    },
+    "-NsLTm2lpVZk1AIgLPSa": {
+      "endTime": 11.760600090026855,
+      "id": "20240307011551710",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": 1.0375618934631348,
+      "positionY": -2.467597723007202
+    },
+    "-NsLTm2nkhcDHRTIfH-Y": {
+      "endTime": 11.760600090026855,
+      "id": "20240307011551679",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": 1.0375618934631348,
+      "positionY": -2.467597723007202
+    },
+    "-NsLTnquoiPn3OVrHpF7": {
+      "endTime": 11.359698295593262,
+      "id": "20240307011557895",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -1.2427500486373901,
+      "positionY": 3.753002405166626
+    },
+    "-NsLTqiEJkPE9lkXUskY": {
+      "endTime": 10.560897827148438,
+      "id": "20240307011609615",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": 1.9608526229858398,
+      "positionY": -1.637454867362976
+    },
+    "-NsLUTSoQYCwyuQE0gnJ": {
+      "endTime": 7.243999481201172,
+      "id": "20240307011852008",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -1.6316131353378296,
+      "positionY": -2.5679538249969482
+    },
+    "-NsLUUUHOJR-LaR-2Omf": {
+      "endTime": 2.299999237060547,
+      "id": "20240307011856470",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -0.09273844212293625,
+      "positionY": -2.101168394088745
+    },
+    "-NsLUVJ_O5y-ucbh9CT_": {
+      "endTime": 2.3669991493225098,
+      "id": "20240307011859817",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -0.3223955035209656,
+      "positionY": -1.4822359085083008
+    },
+    "-NsLUVeINwSblZ_gWhK_": {
+      "endTime": 18.94668960571289,
+      "id": "20240307011902647",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": 4.993539333343506,
+      "positionY": -0.7740800976753235
+    },
+    "-NsLUZUOpGHlKTmFI095": {
+      "endTime": 6.3069987297058105,
+      "id": "20240307011916885",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -1.2145497798919678,
+      "positionY": 1.6739708185195923
+    },
+    "-NsLUb_7Cwehb1Eeh3L1": {
+      "endTime": 11.114998817443848,
+      "id": "20240307011929539",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -0.024586275219917297,
+      "positionY": -1.9357516765594482
+    },
+    "-NsLUe9yfy5pW04tupyc": {
+      "endTime": 8.235998153686523,
+      "id": "20240307011940147",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": 0.15489457547664642,
+      "positionY": -2.0522937774658203
+    },
+    "-NsLUgAGWeB4FCt31C7W": {
+      "endTime": 7.261000156402588,
+      "id": "20240307011948355",
+      "killedBy": "Nail",
+      "level": "Level2",
+      "positionX": -1.955330729484558,
+      "positionY": 1.7861870527267456
+    },
+    "-NsLUjDAqrjTtNBGN8wE": {
+      "endTime": 10.213997840881348,
+      "id": "20240307012000827",
+      "killedBy": "Nail",
+      "level": "Level2",
+      "positionX": 3.4382903575897217,
+      "positionY": -3.6102943420410156
+    },
+    "-NsLV-Ef5SuyPvW7mgU-": {
+      "endTime": 3.5866000652313232,
+      "id": "20240307012111984",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": -5.214564323425293,
+      "positionY": -0.4472368061542511
+    },
+    "-NsLV0dvWI2Iw3LiSkOb": {
+      "endTime": 3.8802647590637207,
+      "id": "20240307012117509",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -3.359999895095825,
+      "positionY": -2.2725110054016113
+    },
+    "-NsLV6qDqC2ZVdynYBlh": {
+      "endTime": 6.802299976348877,
+      "id": "20240307012143133",
+      "killedBy": "Nail",
+      "level": "Level2",
+      "positionX": 0.25273439288139343,
+      "positionY": -2.419919729232788
+    },
+    "-NsLWKoqYHaB4FFHaMCM": {
+      "endTime": 5.187516689300537,
+      "id": "20240307012702465",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -2.70090913772583,
+      "positionY": -1.371395230293274
+    },
+    "-NsLXpKpp4a2_GHQd71v": {
+      "endTime": 4.438599109649658,
+      "id": "20240307013330111",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -1.9495984315872192,
+      "positionY": -3.3827319145202637
+    },
+    "-NsLY-CZHsWgM-MCiGij": {
+      "endTime": 31.234098434448242,
+      "id": "20240307013418732",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -3.6991467475891113,
+      "positionY": 1.7083412408828735
+    },
+    "-NsLZ8XbKMDeQ5Gp9DuK": {
+      "endTime": 4.440497398376465,
+      "id": "20240307013918964",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -3.359999895095825,
+      "positionY": -3.609999895095825
+    },
+    "-NsL_DwbKzGgJGfRB3Xd": {
+      "endTime": 8.529099464416504,
+      "id": "20240307014402718",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": 0.41407012939453125,
+      "positionY": 0.4588226079940796
+    },
+    "-NsL_Pgos6hAvpIqNfE7": {
+      "endTime": 12.277199745178223,
+      "id": "20240307014451074",
+      "killedBy": "Nail",
+      "level": "Level3",
+      "positionX": -1.1439523696899414,
+      "positionY": 1.8351430892944336
+    },
+    "-NsL_RcLnJFmJ3rXOdxv": {
+      "endTime": 6.286799907684326,
+      "id": "20240307014458949",
+      "killedBy": "Nail",
+      "level": "Level3",
+      "positionX": -1.2897003889083862,
+      "positionY": 1.1106454133987427
+    },
+    "-NsL_ek6VfvgBft6Bhip": {
+      "endTime": 14.712699890136719,
+      "id": "20240307014555838",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": 1.6491881608963013,
+      "positionY": 3.089879274368286
+    },
+    "-NsL_hM9LlLq7PQYJxqa": {
+      "endTime": 8.452799797058105,
+      "id": "20240307014606452",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": 1.6493005752563477,
+      "positionY": 3.386630058288574
+    },
+    "-NsL_jR4_xzEp3IX6mb-": {
+      "endTime": 6.402799129486084,
+      "id": "20240307014615199",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -2.399125337600708,
+      "positionY": -3.57207989692688
+    },
+    "-NsL_lpyYaAIa6CNw2aB": {
+      "endTime": 7.219499111175537,
+      "id": "20240307014625049",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": 0.409968763589859,
+      "positionY": 1.8017587661743164
+    },
+    "-NsL_nlc0U9ZGqQiGALg": {
+      "endTime": 5.301300048828125,
+      "id": "20240307014632963",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": 1.554987907409668,
+      "positionY": -1.3364046812057495
+    },
+    "-NsL_rRS2GxG6NUtDCc9": {
+      "endTime": 12.07929801940918,
+      "id": "20240307014647992",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -0.26222920417785645,
+      "positionY": -1.2003525495529175
+    },
+    "-NsL_tbeZbK1qvGXPHG2": {
+      "endTime": 7.201099872589111,
+      "id": "20240307014656905",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": 4.012677192687988,
+      "positionY": 2.7464334964752197
+    },
+    "-NsLafEiQ5fn1MK0FkOQ": {
+      "endTime": 5.271230220794678,
+      "id": "20240307015020085",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -1.8391473293304443,
+      "positionY": -1.3749958276748657
+    },
+    "-NsLahVj-jSNEWGVUl9J": {
+      "endTime": 4.647463321685791,
+      "id": "20240307015030055",
+      "killedBy": "Ghost",
+      "level": "Level3",
+      "positionX": -3.060037851333618,
+      "positionY": 1.0635285377502441
+    },
+    "-NsLaj-OOnq3bqnMtoVj": {
+      "endTime": 13.449199676513672,
+      "id": "20240307015035563",
+      "killedBy": "Nail",
+      "level": "Level2",
+      "positionX": 0.017515115439891815,
+      "positionY": -1.9088444709777832
+    },
+    "-NsLal9D2i2To5HKPiSA": {
+      "endTime": 6.989129543304443,
+      "id": "20240307015044377",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -1.3447904586791992,
+      "positionY": 0.5134092569351196
+    },
+    "-NsLalW3xcL021FHOSbW": {
+      "endTime": 7.170563220977783,
+      "id": "20240307015046647",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -3.359999895095825,
+      "positionY": -3.609999895095825
+    },
+    "-NsLavHbIrQGWdaWv9AC": {
+      "endTime": 10.710529327392578,
+      "id": "20240307015126697",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -3.022329568862915,
+      "positionY": -3.406407117843628
+    },
+    "-NsLayjU1quMmEZls5ya": {
+      "endTime": 6.2328290939331055,
+      "id": "20240307015140647",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -3.2927563190460205,
+      "positionY": -3.2517926692962646
+    },
+    "-NsLbpPP4pko1JUR_7cw": {
+      "endTime": 14.807969093322754,
+      "id": "20240307015522722",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -3.359999895095825,
+      "positionY": -2.435793161392212
+    },
+    "-NsLbrZYGXZtKKbDmqJw": {
+      "endTime": 4.301699638366699,
+      "id": "20240307015533518",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -4.14500093460083,
+      "positionY": -0.3306795358657837
+    },
+    "-NsLbsu6OCrWF3tWEz8v": {
+      "endTime": 12.574968338012695,
+      "id": "20240307015537208",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -0.7212567925453186,
+      "positionY": -2.6120493412017822
+    },
+    "-NsLbuEx1mMy9ojgAFIK": {
+      "endTime": 10.135299682617188,
+      "id": "20240307015544651",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -1.7660812139511108,
+      "positionY": 2.4285264015197754
+    },
+    "-NsLbvZTkJcDT9at5vX4": {
+      "endTime": 5.589000225067139,
+      "id": "20240307015548106",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": 4.0126824378967285,
+      "positionY": 3.3696401119232178
+    },
+    "-NsLby4FL5nAlX8CZvqS": {
+      "endTime": 8.02996826171875,
+      "id": "20240307015558396",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -0.9330996870994568,
+      "positionY": -2.4555811882019043
+    },
+    "-NsLc909HtKp2-oj4xdJ": {
+      "endTime": 37.77896499633789,
+      "id": "20240307015647290",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -1.1080527305603027,
+      "positionY": 0.2611970603466034
+    },
+    "-NsLcOyh0wsyHvaUaG-H": {
+      "endTime": 17.956298828125,
+      "id": "20240307015752669",
+      "killedBy": "Ghost",
+      "level": "Level3",
+      "positionX": -1.1177550554275513,
+      "positionY": -3.032388925552368
+    },
+    "-NsLff5SwXqdTY9IUMCc": {
+      "endTime": 26.261310577392578,
+      "id": "20240307021211058",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": 0.7210630178451538,
+      "positionY": 0.36139512062072754
+    },
+    "-NsSC73w4mFzSiK7pU5i": {
+      "endTime": 11.227700233459473,
+      "id": "20240308083603701",
+      "killedBy": "Nail",
+      "level": "Level2",
+      "positionX": -1.5038440227508545,
+      "positionY": 1.2163296937942505
+    },
+    "-NsdNjsuSQphw4o9VRZ4": {
+      "endTime": 15.808799743652344,
+      "id": "20240310172216233",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -3.684755563735962,
+      "positionY": 0.2620927393436432
+    },
+    "-NsdNy9sb5TB4FenVYdm": {
+      "endTime": 15.736231803894043,
+      "id": "20240310172315433",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": 1.6503419876098633,
+      "positionY": 1.849573016166687
+    },
+    "-NsdOGZ9zB1RqEWprIdD": {
+      "endTime": 22.488399505615234,
+      "id": "20240310172434867",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": 4.006795406341553,
+      "positionY": 4.0178656578063965
+    },
+    "-NsdOkSRq1uU3mv371F2": {
+      "endTime": 5.769429683685303,
+      "id": "20240310172641346",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": -3.8720836639404297,
+      "positionY": 0.10629665851593018
+    },
+    "-NsdQUi5gbWVc3-QF_2N": {
+      "endTime": 10.968094825744629,
+      "id": "20240310173416974",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -0.5946372151374817,
+      "positionY": 3.825472593307495
+    },
+    "-NsdRXslxtM-tRhQehaO": {
+      "endTime": 8.011160850524902,
+      "id": "20240310173852187",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": 1.7172532081604004,
+      "positionY": 3.050016403198242
+    },
+    "-NsdU65e-2tpS8xpILTJ": {
+      "endTime": 7.342158317565918,
+      "id": "20240310175004716",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": 2.020660400390625,
+      "positionY": -1.6363282203674316
+    },
+    "-NtRhWY3An7G10NI_VlF": {
+      "endTime": 14.914999961853027,
+      "id": "20240320163341502",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": 1.1154682636260986,
+      "positionY": 0.386394739151001
+    },
+    "-NtT8ufEv8AK7w5cwhrp": {
+      "endTime": 7.2887983322143555,
+      "id": "20240320231721419",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -0.8675869107246399,
+      "positionY": -2.2351486682891846
+    },
+    "-NtT90aw9dJ5a2Zd2qai": {
+      "endTime": 6.614897727966309,
+      "id": "20240320231750019",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -3.0885889530181885,
+      "positionY": -3.7200000286102295
+    },
+    "-NtT968VmydplQd0wTEO": {
+      "endTime": 19.668197631835938,
+      "id": "20240320231812702",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -1.2136154174804688,
+      "positionY": 2.935326099395752
+    },
+    "-NtT99j6oM9s6qfp_WSt": {
+      "endTime": 12.5715970993042,
+      "id": "20240320231827402",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -4.082371234893799,
+      "positionY": -1.945395827293396
+    },
+    "-NtT9DHfBk0PQi356Che": {
+      "endTime": 12.871696472167969,
+      "id": "20240320231841968",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -1.8391473293304443,
+      "positionY": -2.4506709575653076
+    },
+    "-NtT9KmaonuCuymb5NbM": {
+      "endTime": 4.231696128845215,
+      "id": "20240320231912685",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -3.465001344680786,
+      "positionY": -4.180022716522217
+    },
+    "-NtT9QmibDmJJBm-QnRT": {
+      "endTime": 5.605095386505127,
+      "id": "20240320231937268",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -1.587849497795105,
+      "positionY": 3.7541322708129883
+    },
+    "-NtT9WifgwS8Wkp0sfwi": {
+      "endTime": 21.281694412231445,
+      "id": "20240320232001585",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": 0.4865978956222534,
+      "positionY": -3.6161413192749023
+    },
+    "-NtT9ZJ0juHgYMtZkuSq": {
+      "endTime": 8.85189437866211,
+      "id": "20240320232012168",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -1.3497388362884521,
+      "positionY": 1.712971568107605
+    },
+    "-NtT9baBK6tQMg573DRI": {
+      "endTime": 11.448493957519531,
+      "id": "20240320232025618",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": 1.1661666631698608,
+      "positionY": -1.8458377122879028
+    },
+    "-NtT9fnROFpLlnoHpYuN": {
+      "endTime": 15.375094413757324,
+      "id": "20240320232042851",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": 0.48616012930870056,
+      "positionY": -3.8596572875976562
+    },
+    "-NtT9k8p2yqKOAadOJ72": {
+      "endTime": 14.235193252563477,
+      "id": "20240320232100668",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": 1.0249998569488525,
+      "positionY": -0.8985171318054199
+    },
+    "-NtT9lZwj9UBihmV3U2i": {
+      "endTime": 4.2283935546875,
+      "id": "20240320232106501",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -3.9537322521209717,
+      "positionY": 1.1005971431732178
+    },
+    "-NtYdwr2pchz10ew75hk": {
+      "endTime": 5.861799716949463,
+      "id": "20240322005525027",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -5.1819539070129395,
+      "positionY": -3.609999895095825
+    },
+    "-NtYdyqrVYFycZwXHHZH": {
+      "endTime": 6.325199604034424,
+      "id": "20240322005533394",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": -3.8682663440704346,
+      "positionY": 0.14774341881275177
+    },
+    "-NtYe0WBjGLAHZshUTZd": {
+      "endTime": 9.236900329589844,
+      "id": "20240322005544293",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": -5.205244064331055,
+      "positionY": 0.9400833249092102
+    },
+    "-NtYe1zFJxCyU9XHqbFx": {
+      "endTime": 3.787100076675415,
+      "id": "20240322005550292",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": -5.145013809204102,
+      "positionY": 1.43985915184021
+    },
+    "-NtYe2-3QkrveR44pMu-": {
+      "endTime": 3.787100076675415,
+      "id": "20240322005550295",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": -5.145013809204102,
+      "positionY": 1.43985915184021
+    },
+    "-NtYe2-FUqsAdD2jz1d3": {
+      "endTime": 3.787100076675415,
+      "id": "20240322005550297",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": -5.145013809204102,
+      "positionY": 1.43985915184021
+    },
+    "-NtYeUsS2wj3iViQmK9B": {
+      "endTime": 5.314198017120361,
+      "id": "20240322005748555",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": -3.359999895095825,
+      "positionY": 1.3655461072921753
+    },
+    "-NtYeXY94ITCGft9jQC2": {
+      "endTime": 8.387700080871582,
+      "id": "20240322005759590",
+      "killedBy": "Nail",
+      "level": "Level1",
+      "positionX": -4.840414524078369,
+      "positionY": 0.8957179188728333
+    },
+    "-NtYiHo7dHN_5YIzbnqh": {
+      "endTime": 9.189462661743164,
+      "id": "20240322011423483",
+      "killedBy": "Ghost",
+      "level": "Level1",
+      "positionX": 0.5307139158248901,
+      "positionY": -2.618863582611084
+    },
+    "-NtYiKKZeG-Ys4VmUUlB": {
+      "endTime": 4.619699954986572,
+      "id": "20240322011434000",
+      "killedBy": "Nail",
+      "level": "Level3",
+      "positionX": -6.130398750305176,
+      "positionY": -3.9969160556793213
+    },
+    "-NtYiNpFJ4-qO_DkgEma": {
+      "endTime": 8.180061340332031,
+      "id": "20240322011448299",
+      "killedBy": "Ghost",
+      "level": "Level3",
+      "positionX": 0.648833692073822,
+      "positionY": -3.3913981914520264
+    },
+    "-NtYiQ--ZtMP_Ai7FMLU": {
+      "endTime": 6.070099830627441,
+      "id": "20240322011457165",
+      "killedBy": "Nail",
+      "level": "Level3",
+      "positionX": -5.309335231781006,
+      "positionY": -2.149081230163574
+    },
+    "-NtYiRm17olSdgZNTMuZ": {
+      "endTime": 5.367061138153076,
+      "id": "20240322011504482",
+      "killedBy": "Ghost",
+      "level": "Level3",
+      "positionX": -3.3228578567504883,
+      "positionY": -1.8308134078979492
+    },
+    "-NtYiT0WCKStBzCjoDGu": {
+      "endTime": 3.3189001083374023,
+      "id": "20240322011509566",
+      "killedBy": "Nail",
+      "level": "Level3",
+      "positionX": -5.094570159912109,
+      "positionY": -2.644482374191284
+    },
+    "-NtYiXbidGil6EpnR4I_": {
+      "endTime": 17.265260696411133,
+      "id": "20240322011528398",
+      "killedBy": "Ghost",
+      "level": "Level3",
+      "positionX": 1.3074175119400024,
+      "positionY": -1.507953405380249
+    },
+    "-NtYiatXePye1w26wNXR": {
+      "endTime": 15.887299537658691,
+      "id": "20240322011545914",
+      "killedBy": "Nail",
+      "level": "Level3",
+      "positionX": 5.684581279754639,
+      "positionY": 2.8751909732818604
+    },
+    "-NtYkkvtQIqg9Imlbuq-": {
+      "endTime": 12.406023979187012,
+      "id": "20240322012511145",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": 0.7974802851676941,
+      "positionY": -1.3512988090515137
+    },
+    "-NtYkniUO_YVjeI3VHX0": {
+      "endTime": 9.975024223327637,
+      "id": "20240322012522728",
+      "killedBy": "Ghost",
+      "level": "Level2",
+      "positionX": -1.2145825624465942,
+      "positionY": 3.1420629024505615
+    },
+    "-NtYkykuLa_vYU-9MWFa": {
+      "endTime": 19.53752326965332,
+      "id": "20240322012607924",
+      "killedBy": "Ghost",
+      "level": "Level3",
+      "positionX": -4.605412006378174,
+      "positionY": 0.6994010210037231
+    },
+    "-NtYl6Ftn_TMRJ1il49C": {
+      "endTime": 33.81999969482422,
+      "id": "20240322012642755",
+      "killedBy": "Nail",
+      "level": "Level3",
+      "positionX": -1.1759581565856934,
+      "positionY": 1.1271913051605225
+    },
+    "-NtYlBwAjgze2KheDrna": {
+      "endTime": 21.581222534179688,
+      "id": "20240322012706005",
+      "killedBy": "Ghost",
+      "level": "Level3",
+      "positionX": 3.2355170249938965,
+      "positionY": -0.594420313835144
+    },
+    "-NtYlL0EIh44srpCNdI0": {
+      "endTime": 10.017821311950684,
+      "id": "20240322012743187",
+      "killedBy": "Ghost",
+      "level": "Level3",
+      "positionX": 0.6963029503822327,
+      "positionY": 0.9507318735122681
+    }
+  }
+}
