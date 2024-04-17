@@ -43,11 +43,24 @@ public class YouWinTrigger : MonoBehaviour
             }
             //YouWin();
             //记录本轮游戏结束
-            CustomEvent myEvent = new CustomEvent("WinCheckPoint") {
-                    {"GameLevel", "Level 3"}
-                };
-            AnalyticsService.Instance.RecordEvent(myEvent);
-            AnalyticsService.Instance.Flush();
+            //CustomEvent myEvent = new CustomEvent("WinCheckPoint") {
+            //        {"GameLevel", "Level 3"}
+            //    };
+            //AnalyticsService.Instance.RecordEvent(myEvent);
+            //AnalyticsService.Instance.Flush();
+
+            // 转换对象为JSON
+            GameData.checkPointdata.gameStatus = "Win";
+            string jsonData = JsonUtility.ToJson(GameData.checkPointdata);
+
+            // 使用Proyecto26上传数据
+            RestClient.Post($"{firebaseUrl}CheckpointData.json", jsonData).Then(response =>
+            {
+                Debug.Log("CheckpointData data uploaded successfully!");
+            }).Catch(error =>
+            {
+                Debug.LogError($"Failed to upload win data: {error}");
+            });
         }
     }
 

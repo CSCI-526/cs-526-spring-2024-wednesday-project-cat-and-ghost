@@ -216,6 +216,23 @@ public class GhostMovement : MonoBehaviour
                 // 发送数据到Firebase
                 PostDeathDataToFirebase(json);
 
+                //发送checkpoint数据
+                // 转换对象为JSON
+                if (GameData.checkPointdata != null)
+                {
+                    GameData.checkPointdata.gameStatus = "Death - ghost";
+                    string jsonData = JsonUtility.ToJson(GameData.checkPointdata);
+
+                    // 使用Proyecto26上传数据
+                    RestClient.Post($"{firebaseUrl}CheckpointData.json", jsonData).Then(response =>
+                    {
+                        Debug.Log("CheckpointData data uploaded successfully!");
+                    }).Catch(error =>
+                    {
+                        Debug.LogError($"Failed to upload win data: {error}");
+                    });
+                }
+
                 Destroy(other.gameObject);
                 //Time.timeScale = 0f; // freeze time
                 GameOver();

@@ -10,13 +10,14 @@ using UnityEngine.SceneManagement;
 using Proyecto26; // 引用Proyecto26库
 using System;
 
-[System.Serializable]
-public class CheckPointData
-{
-    public string levelName;
-    public string checkedDateTime;
-    public string Checkpoint;
-}
+//[System.Serializable]
+//public class CheckPointData
+//{
+//    public string levelName;
+//    public string checkedDateTime;
+//    public string Checkpoint;
+//    public string gameStatus;
+//}
 public class WallCheckPoint : MonoBehaviour
 {
     private bool hasTriggered = false; // 记录玩家是否走过当前checkpoint的flag
@@ -60,23 +61,24 @@ public class WallCheckPoint : MonoBehaviour
             //    {"GameLevel", "Level 3"}
             //};
 
-            CheckPointData checkPointdata = new CheckPointData
+            GameData.checkPointdata = new CheckPointData
             {
                 levelName = SceneManager.GetActiveScene().name,
                 checkedDateTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"),
-                Checkpoint = gameObject.tag
+                Checkpoint = gameObject.tag,
+                gameStatus = ""
             };
             ////};
 
             // 转换对象为JSON
-            string jsonData = JsonUtility.ToJson(checkPointdata);
+            //string jsonData = JsonUtility.ToJson(checkPointdata);
 
-            // 使用Proyecto26上传数据
-            RestClient.Post($"{firebaseUrl}CheckpointData.json", jsonData).Then(response => {
-                Debug.Log("CheckpointData data uploaded successfully!");
-            }).Catch(error => {
-                Debug.LogError($"Failed to upload win data: {error}");
-            });
+            //// 使用Proyecto26上传数据
+            //RestClient.Post($"{firebaseUrl}CheckpointData.json", jsonData).Then(response => {
+            //    Debug.Log("CheckpointData data uploaded successfully!");
+            //}).Catch(error => {
+            //    Debug.LogError($"Failed to upload win data: {error}");
+            //});
 
             //AnalyticsService.Instance.RecordEvent(myEvent);
             //AnalyticsService.Instance.Flush();

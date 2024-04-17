@@ -49,6 +49,8 @@ public class NewBehaviourScript : MonoBehaviour {
         Scene currentScene = SceneManager.GetActiveScene();
         GameData.scnenName = currentScene.name;
 
+        //刷新wallcheckpoint全局变量
+        GameData.checkPointdata = null;
 
     }
 

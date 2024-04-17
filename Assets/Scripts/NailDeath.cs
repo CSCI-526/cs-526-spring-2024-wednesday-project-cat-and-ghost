@@ -30,6 +30,8 @@ public class NailDeath : MonoBehaviour
 
     private PolygonCollider2D nailCollider;
 
+    private string firebaseUrl = "https://csci526-catandghost-default-rtdb.firebaseio.com/"; // 你的Firebase URL
+
     // Start is called before the first frame update
     void Start()
     {
@@ -75,6 +77,22 @@ public class NailDeath : MonoBehaviour
                 // 发送数据到Firebase
                 PostDeathDataToFirebase(json);
 
+                //发送checkpoint数据
+                if (GameData.checkPointdata != null)
+                {
+                    GameData.checkPointdata.gameStatus = "Death - nails";
+                    string jsonData = JsonUtility.ToJson(GameData.checkPointdata);
+
+                    // 使用Proyecto26上传数据
+                    RestClient.Post($"{firebaseUrl}CheckpointData.json", jsonData).Then(response =>
+                    {
+                        Debug.Log("CheckpointData data uploaded successfully!");
+                    }).Catch(error =>
+                    {
+                        Debug.LogError($"Failed to upload win data: {error}");
+                    });
+                }
+
 
                 Destroy(Player);
                 Destroy(Ghost);
@@ -114,6 +132,22 @@ public class NailDeath : MonoBehaviour
 
                 // 发送数据到Firebase
                 PostDeathDataToFirebase(json);
+
+                //发送checkpoint数据
+                if (GameData.checkPointdata != null)
+                {
+                    GameData.checkPointdata.gameStatus = "Death - nails";
+                    string jsonData = JsonUtility.ToJson(GameData.checkPointdata);
+
+                    // 使用Proyecto26上传数据
+                    RestClient.Post($"{firebaseUrl}CheckpointData.json", jsonData).Then(response =>
+                    {
+                        Debug.Log("CheckpointData data uploaded successfully!");
+                    }).Catch(error =>
+                    {
+                        Debug.LogError($"Failed to upload win data: {error}");
+                    });
+                }
 
 
                 Destroy(other.gameObject);
