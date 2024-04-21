@@ -21,6 +21,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Level3.unity
     guid: 3e2285eb983fc4ab58a6fed0c1635701
   - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 6397e37afb7e747aaabd5ee446f81288
+  - enabled: 1
     path: Assets/Scenes/NailGameOverScene.unity
     guid: 98de7891b0af84e80a38f54e1508836f
   - enabled: 1
