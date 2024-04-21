@@ -34,20 +34,31 @@ public class NewBehaviourScript : MonoBehaviour {
     public Color32 myY = Colors.myY;
     public Color32 myB = Colors.myB;
 
+    public Sprite blueCat;
+    public Sprite yellowCat;
+    public Sprite redCat;
+
     private Color[] colors; // 存储颜色的数组
+    private Sprite[] CatSprites;
     private int currentColorIndex = 0; // 当前颜色索引
+    private int currentSprite = 0; //当前sprite索引
 
     private Rigidbody2D rb; // Rigidbody2D组件
     public Color32 bgColor; // 背景颜色
     public bool canMove = true; // 是否可以移动
     public Color32 curColor; // 当前player的颜色
+    public SpriteRenderer spriteRenderer;//获取当前ui组件
+
 
     void Start() {
         colors = new Color[] { myB, myY, myR }; // 初始化颜色数组
+        CatSprites = new Sprite[] { blueCat, yellowCat, redCat };
         curColor = myB;
         rb = GetComponent<Rigidbody2D>(); // 获取Rigidbody2D组件
         Scene currentScene = SceneManager.GetActiveScene();
         GameData.scnenName = currentScene.name;
+        spriteRenderer = GetComponent<SpriteRenderer>();
+
 
         //刷新wallcheckpoint全局变量
         GameData.checkPointdata = null;
@@ -69,10 +80,13 @@ public class NewBehaviourScript : MonoBehaviour {
         if (Input.GetKeyDown(KeyCode.Space)) {
             // 更新当前颜色索引并循环
             currentColorIndex = (currentColorIndex + 1) % colors.Length;
+            currentSprite = (currentSprite + 1) % CatSprites.Length;
             // 应用新颜色
             GetComponent<SpriteRenderer>().color = colors[currentColorIndex];
             ChangeColor(colors[currentColorIndex]);
             curColor = colors[currentColorIndex];
+            //根据颜色更新当前UI
+            spriteRenderer.sprite = CatSprites[currentSprite];
             // 更新canMove状态
             canMove = GetComponent<SpriteRenderer>().color != bgColor;
         }
