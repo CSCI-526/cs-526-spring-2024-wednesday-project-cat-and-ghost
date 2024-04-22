@@ -20,8 +20,6 @@ public class OtherLevels : MonoBehaviour
     public void OpenLevelSelector()
     {
         //跳转scene
-        Time.timeScale = 1; // 游戏继续
         SceneManager.LoadScene("LevelSelect");
-
     }
 }
