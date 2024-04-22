@@ -2636,9 +2636,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.07433653, y: -0.10221362}
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 1.661514
 --- !u!212 &530139980
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6262,9 +6262,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.09292185, y: -0.03716767}
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 1.6336375
 --- !u!212 &1219550967
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7123,9 +7123,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.015946388, y: 0}
+  m_Offset: {x: -0.054404315, y: -0.12306045}
   serializedVersion: 2
-  m_Radius: 0.58837485
+  m_Radius: 1.9343474
 --- !u!50 &1379116545
 Rigidbody2D:
   serializedVersion: 4
